@@ -1,0 +1,76 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #FF87B3;
+  --color-secondary: #E0E0E0;
+  --color-tertiary: #303030;
+  --color-purple: #4B164C;
+  --color-light-purple: #DED2E8;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  overflow-x: hidden;
+}
+
+#app {
+  min-height: 100vh;
+  width: 100vw;
+  overflow-x: hidden;
+}
+
+/* Responsive visibility classes */
+.mobile {
+  display: none;
+}
+
+.desktop {
+  display: flex;
+}
+
+/* Show mobile content only on mobile devices */
+body.is-mobile .mobile {
+  display: flex;
+}
+
+body.is-mobile .desktop {
+  display: none;
+}
+
+/* Show desktop content only on desktop devices */
+body.is-desktop .mobile {
+  display: none;
+}
+
+body.is-desktop .desktop {
+  display: flex;
+}
+
+.attribute:hover {
+  color: #bdbdbd;
+  transform: scale(1.1);
+  transition: all 0.3s ease-in-out;
+  cursor: pointer;
+  opacity: 0.8;
+}
+
+.attribute:active {
+  transform: scale(0.8);
+  transition: all 0.3s ease-in-out;
+}
+
+.mobile-menu-button {
+  width: 100%;
+  justify-content: start;
+  padding: 0.5rem 0;
+}
+
+.mobile-menu-button:active {
+  transition: all 0.3s ease-in-out;
+  cursor: pointer;
+  opacity: 0.8;
+  color: rgba(17, 24, 39, 1);
+}

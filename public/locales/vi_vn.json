@@ -1,0 +1,107 @@
+{
+  "header": {
+    "nav": {
+      "product": "Sản phẩm",
+      "features": "Tính năng nâng cao",
+      "security": "Bảo mật"
+    },
+    "language": "Ngôn ngữ",
+    "download": "Tải xuống"
+  },
+  "hero": {
+    "title": "Hãy để duyên phận theo thiên ý",
+    "subtitle": "Và cũng dựa vào khoa học",
+    "description": "Kết hợp số mệnh Bát Tự để tìm được người bạn đời hợp nhất với linh hồn bạn",
+    "cta": {
+      "join": "Tham gia ngay",
+      "explore": "Các tính năng nâng cao"
+    },
+    "support": "Hỗ trợ iOS / Android"
+  },
+  "features": {
+    "title": "Bạn có bao giờ...",
+    "problems": {
+      "problem1": "Luôn không tìm được người phù hợp?",
+      "problem2": "Mỗi mối quan hệ đều gặp cùng một vấn đề?",
+      "problem3": "Không biết cách hiểu cảm xúc và phản ứng của đối phương?",
+      "problem4": "Chỉ sau khi hẹn hò mới phát hiện tính cách không hợp, lãng phí thời gian?"
+    },
+    "solution": {
+      "title": "Giải pháp của chúng tôi",
+      "description": "Sử dụng 'Bát Tự' + 'MBTI' để phân tích tính cách, hiểu mô hình tương tác, giúp bạn tìm được mối quan hệ đối tác hợp nhất và bền vững."
+    }
+  },
+  "whyChoose": {
+    "title": "Tại sao chọn {appName}?",
+    "items": [
+      {
+        "title": "Hệ thống lập bản đồ Bát Tự chính xác",
+        "description": "Sử dụng chính xác Thiên Can, Địa Chi, Ngũ Hành, Thập Thần truyền thống\nĐảm bảo phân tích bản mệnh chính xác và không sai lệch"
+      },
+      {
+        "title": "Ghép đôi thông minh",
+        "description": "Kết hợp cấu trúc bản mệnh với MBTI, tìm ra đối tác có độ tương thích cao, kết hợp tượng số học và tâm lý học"
+      },
+      {
+        "title": "Nhắc nhở lời khuyên tình yêu",
+        "description": "Biết bạn quan tâm điều gì, tránh điều gì\nVí dụ: Xung đột Hỏa-Thổ, quá nhiều Bí Giản\nGiảm ma sát trong mối quan hệ"
+      },
+      {
+        "title": "Tìm kiếm theo bản mệnh",
+        "badge": "Tính năng trả phí",
+        "description": "Muốn tìm đối tác có bản mệnh cụ thể?\nNgười thích Mộc-Hỏa, cácê Tài Tinh, đối tác Nhật Chủ mạnh...\nĐặt điều kiện Ngũ Hành mong muốn, đừng để số phận chỉ dựa vào may mắn"
+      }
+    ]
+  },
+  "footer": {
+    "tagline": "Hãy để duyên phận gặp gỡ số mệnh, ghép đôi khoa học cho tình yêu chân thành",
+    "sections": {
+      "explore": {
+        "title": "Khám phá",
+        "items": [
+          "Tính năng trang chủ",
+          "Tính năng hẹn hò",
+          "Hệ thống ghép đôi",
+          "Cài đặt riêng tư"
+        ]
+      },
+      "support": {
+        "title": "Hỗ trợ",
+        "items": [
+          "Trung tâm khách hàng",
+          "Câu hỏi thường gặp",
+          "Hướng dẫn an toàn",
+          "Báo cáo sự cố"
+        ]
+      },
+      "legal": {
+        "title": "Pháp lý",
+        "items": [
+          "Chính sách bảo mật",
+          "Điều khoản dịch vụ",
+          "Chính sách Cookie",
+          "Quy định cộng đồng"
+        ]
+      }
+    },
+    "copyright": "© 2024 NAME. Tất cả quyền được bảo lưu."
+  },
+  "testimonials": {
+    "title": "Đánh giá người dùng và câu chuyện thành công",
+    "subtitle": "Nghe họ kể về cách tìm được tình yêu đích thực qua tương thích Bát Tự",
+    "matchWithGirlfriend": "Độ tương thích với bạn gái",
+    "matchWithBoyfriend": "Độ tương thích với bạn trai"
+  },
+  "languageSelector": {
+    "title": "Chọn ngôn ngữ",
+    "footer": "Thiết lập ngôn ngữ của bạn sẽ được ghi nhớ"
+  },
+  "faq": {
+    "title": "Câu hỏi thường gặp"
+  },
+  "download": {
+    "title": "Cuộc gặp gỡ số phận bắt đầu từ bây giờ",
+    "subtitle": "Trở thành người dùng sớm",
+    "description": "Nhận một tháng thành viên cao cấp và cơ hội tư vấn 1-1 riêng biệt"
+  }
+}

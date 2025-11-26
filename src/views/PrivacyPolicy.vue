@@ -1,0 +1,79 @@
+<script setup lang="ts">
+import AppHeader from "../components/AppHeader.vue";
+import AppFooter from "../components/AppFooter.vue";
+</script>
+
+<template>
+  <div
+    class="min-h-screen bg-gradient-to-b from-purple-900 via-purple-800 to-gray-900"
+  >
+    <AppHeader />
+    <div class="max-w-4xl mx-auto px-4 pt-40 pb-24 text-white">
+      <h1 class="text-4xl font-bold mb-8">隱私政策 / Privacy Policy</h1>
+
+      <div class="space-y-8 text-gray-300">
+        <section>
+          <h2 class="text-2xl font-semibold text-white mb-4">
+            1. 資訊收集 / Information We Collect
+          </h2>
+          <p class="mb-2">我們收集您直接提供給我們的資訊，包括：</p>
+          <ul class="list-disc list-inside space-y-1 ml-4">
+            <li>八字生辰資料（出生日期、時間、地點）</li>
+            <li>MBTI 性格類型</li>
+            <li>個人檔案資訊（姓名、照片、自我介紹）</li>
+            <li>聯絡資訊（電子郵件、電話號碼）</li>
+          </ul>
+        </section>
+
+        <section>
+          <h2 class="text-2xl font-semibold text-white mb-4">
+            2. 資訊使用 / How We Use Your Information
+          </h2>
+          <p class="mb-2">我們使用收集的資訊來：</p>
+          <ul class="list-disc list-inside space-y-1 ml-4">
+            <li>提供和維護我們的服務</li>
+            <li>為您匹配相容的伴侶</li>
+            <li>分析八字和 MBTI 相容性</li>
+            <li>改進我們的配對算法</li>
+            <li>與您溝通服務更新和通知</li>
+          </ul>
+        </section>
+
+        <section>
+          <h2 class="text-2xl font-semibold text-white mb-4">
+            3. 資訊分享 / Information Sharing
+          </h2>
+          <p>
+            我們不會將您的個人資訊出售給第三方。我們只會在以下情況下分享資訊：
+          </p>
+          <ul class="list-disc list-inside space-y-1 ml-4 mt-2">
+            <li>經您同意</li>
+            <li>與潛在配對對象分享您的公開個人檔案資訊</li>
+            <li>與服務提供商分享（如雲端儲存、分析工具）</li>
+            <li>遵守法律要求</li>
+          </ul>
+        </section>
+
+        <section>
+          <h2 class="text-2xl font-semibold text-white mb-4">
+            4. 資料安全 / Data Security
+          </h2>
+          <p>我們採取適當的技術和組織安全措施來保護您的個人資訊。</p>
+        </section>
+
+        <section>
+          <h2 class="text-2xl font-semibold text-white mb-4">
+            5. 聯絡我們 / Contact Us
+          </h2>
+          <p>如對本隱私政策有任何疑問，請聯繫：privacy@kosmeet.com</p>
+        </section>
+
+        <div class="text-sm text-gray-500 mt-8">
+          最後更新日期：2024年11月26日
+        </div>
+      </div>
+    </div>
+
+    <AppFooter />
+  </div>
+</template>

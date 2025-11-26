@@ -1,0 +1,107 @@
+{
+  "header": {
+    "nav": {
+      "product": "제품",
+      "features": "고급 기능",
+      "security": "보안"
+    },
+    "language": "언어",
+    "download": "다운로드"
+  },
+  "hero": {
+    "title": "인연을 하늘에 맡기고",
+    "subtitle": "과학에도 의존하라",
+    "description": "사주명리와 결합하여 가장 잘 맞는 영혼의 동반자를 찾아드립니다",
+    "cta": {
+      "join": "지금 가입",
+      "explore": "고급 기능 탐색"
+    },
+    "support": "iOS / Android 지원"
+  },
+  "features": {
+    "title": "이런 경험이 있으신가요...",
+    "problems": {
+      "problem1": "항상 맞는 사람을 찾지 못하셨나요?",
+      "problem2": "모든 연애가 같은 문제에 갇혀있나요?",
+      "problem3": "상대방의 감정과 반응을 이해하는 방법을 모르시나요?",
+      "problem4": "사귀고 나서야 성격이 안 맞는다는 걸 알아서 시간을 낭비하셨나요?"
+    },
+    "solution": {
+      "title": "우리의 해법",
+      "description": "‘사주’ + ‘MBTI’로 성격을 분석하고 상호작용 패턴을 이해하여, 잘 맞고 오래가는 동반자 관계를 찾아드립니다."
+    }
+  },
+  "whyChoose": {
+    "title": "왜 {appName}을 선택하나요?",
+    "items": [
+      {
+        "title": "정밀한 사주 명반 시스템",
+        "description": "전통 간지, 오행, 십신을 정확히 사용\n명반 분석의 정확성을 보장합니다"
+      },
+      {
+        "title": "지능형 매칭",
+        "description": "명반 구조와 MBTI를 결합하여 높은 호환성을 가진 상대를 찾아드리며 명리학과 심리학을 융합합니다"
+      },
+      {
+        "title": "연애 조언 알림",
+        "description": "여러분이 중요하게 생각하는 것과 피해야 할 것을 알려드립니다\n예: 화토충, 비견과다\n관계 마찰을 줄입니다"
+      },
+      {
+        "title": "명격 검색",
+        "badge": "유료 기능",
+        "description": "특정 명격의 동반자를 찾고 싶으신가요?\n목화를 좋아하는 사람, 재성격국, 일주강왕 상대...\n원하는 오행 조건을 설정하여 운명을 운에만 맡기지 마세요"
+      }
+    ]
+  },
+  "footer": {
+    "tagline": "인연을 운명과 만나게 하고, 과학적으로 진정한 사랑을 연결합니다",
+    "sections": {
+      "explore": {
+        "title": "탐색",
+        "items": [
+          "홈 기능",
+          "데이팅 기능",
+          "매칭 시스템",
+          "프라이버시 설정"
+        ]
+      },
+      "support": {
+        "title": "지원",
+        "items": [
+          "고객 서비스",
+          "자주 묻는 질문",
+          "안전 가이드",
+          "문제 신고"
+        ]
+      },
+      "legal": {
+        "title": "법적 고지",
+        "items": [
+          "개인정보처리방침",
+          "서비스 약관",
+          "쿠키 정책",
+          "커뮤니티 가이드라인"
+        ]
+      }
+    },
+    "copyright": "© 2024 NAME. All rights reserved."
+  },
+  "testimonials": {
+    "title": "사용자 리뷰 및 성공 스토리",
+    "subtitle": "사주 궁합으로 진정한 사랑을 찾은 그들의 이야기를 들어보세요",
+    "matchWithGirlfriend": "여자친구와의 궁합도",
+    "matchWithBoyfriend": "남자친구와의 궁합도"
+  },
+  "languageSelector": {
+    "title": "언어 선택",
+    "footer": "언어 설정이 기억됩니다"
+  },
+  "faq": {
+    "title": "자주 묻는 질문"
+  },
+  "download": {
+    "title": "운명적인 만남 지금 시작",
+    "subtitle": "초기 사용자가 되세요",
+    "description": "1개월 프리미엄 멤버십과 전용 1:1 상담 기회를 얻으세요"
+  }
+}

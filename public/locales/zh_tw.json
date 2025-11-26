@@ -1,0 +1,119 @@
+{
+  "header": {
+    "nav": {
+      "product": "產品",
+      "features": "進階功能",
+      "security": "安全"
+    },
+    "language": "語言",
+    "download": "下載"
+  },
+  "hero": {
+    "title": "讓緣分聽天命",
+    "subtitle": "也靠科學",
+    "description": "結合八字命理 給你最契合的靈魂伴侶",
+    "cta": {
+      "join": "立即加入",
+      "explore": "探索進階功能"
+    },
+    "support": "支援 iOS / Android 系統"
+  },
+  "features": {
+    "title": "你是否也曾...",
+    "problems": {
+      "problem1": "一直配不到對盤的人？",
+      "problem2": "每段戀情都卡在同樣的問題？",
+      "problem3": "不知道怎麼理解對方的情緒與反應？",
+      "problem4": "交往後才發現性格不合，浪費時間？"
+    },
+    "solution": {
+      "title": "我們的解方",
+      "description": "用「八字」＋「MBTI」剖析個性、理解互動模式，幫你找到契合又長久的伴侶關係。"
+    }
+  },
+  "whyChoose": {
+    "title": "為什麼選擇 {appName}？",
+    "items": [
+      {
+        "title": "精準八字排盤系統",
+        "description": "準確採用傳統干支、五行、十神\n確保命盤分析精準無誤"
+      },
+      {
+        "title": "智能配對",
+        "description": "結合命盤結構與MBTI，找出高契合對象融合命理與心理學"
+      },
+      {
+        "title": "戀愛建議提醒",
+        "description": "知道你們在意什麼、避開什麼\n例：火土衝、比肩過多\n減少關係摩擦"
+      },
+      {
+        "title": "命格搜尋",
+        "badge": "付費功能",
+        "description": "找想特定命格的伴侶嗎？\n喜木火的人、財星格局、日主強旺對象...\n設定你想要的五行條件，讓命運不再全靠運氣"
+      }
+    ]
+  },
+  "footer": {
+    "tagline": "讓緣分撞天命，科學配對真愛",
+    "sections": {
+      "explore": {
+        "title": "探索",
+        "items": ["首頁功能", "交友功能", "配對系統", "隱私設定"]
+      },
+      "support": {
+        "title": "支援",
+        "items": ["客服中心", "常見問題", "安全須知", "問題回報"]
+      },
+      "legal": {
+        "title": "法律聲明",
+        "items": ["隱私政策", "服務條款", "Cookie政策", "社群守則"]
+      }
+    },
+    "copyright": "© 2024 NAME. All rights reserved."
+  },
+  "testimonials": {
+    "title": "用戶好評與故事見證",
+    "subtitle": "聽聽他們如何藉由八字緣分找到真愛",
+    "matchWithGirlfriend": "與女友匹配度",
+    "matchWithBoyfriend": "與男友匹配度"
+  },
+  "languageSelector": {
+    "title": "選擇語言",
+    "footer": "您的語言偏好將會被記住"
+  },
+  "faq": {
+    "title": "常見問題"
+  },
+  "download": {
+    "title": "命中注定的相遇 從現在開始",
+    "subtitle": "成為首批體驗者",
+    "description": "獲得一個月高級會員資格與專屬一對一諮詢機會"
+  },
+  "privacyPolicy": {
+    "title": "隱私政策",
+    "section1": {
+      "title": "1. 資訊收集",
+      "description": "我們收集您直接提供給我們的資訊，包括：",
+      "items": [
+        "八字生辰資料（出生日期、時間、地點）",
+        "MBTI 性格類型",
+        "個人檔案資訊（姓名、照片、自我介紹）",
+        "聯絡資訊（電子郵件、電話號碼）"
+      ]
+    },
+    "section2": {
+      "title": "2. 資訊使用",
+      "description": "我們使用收集的資訊來：",
+      "items": [
+        "提供和維護我們的服務",
+        "為您匹配相容的伴侶",
+        "分析八字和 MBTI 相容性"
+      ]
+    },
+    "section3": {
+      "title": "3. 聯絡我們",
+      "description": "如對本隱私政策有任何疑問，請聯繫：privacy@kosmeet.com"
+    },
+    "lastUpdated": "最後更新日期：2024年11月26日"
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "header": {
+    "nav": {
+      "product": "产品",
+      "features": "进阶功能",
+      "security": "安全"
+    },
+    "language": "语言",
+    "download": "下载"
+  },
+  "hero": {
+    "title": "让缘分听天命",
+    "subtitle": "也靠科学",
+    "description": "结合八字命理 给你最契合的灵魂伴侣",
+    "cta": {
+      "join": "立即加入",
+      "explore": "探索进阶功能"
+    },
+    "support": "支持 iOS / Android 系统"
+  },
+  "features": {
+    "title": "你是否也曾...",
+    "problems": {
+      "problem1": "一直配不到对盘的人？",
+      "problem2": "每段恋情都卡在同样的问题？",
+      "problem3": "不知道怎么理解对方的情绪与反应？",
+      "problem4": "交往后才发现性格不合，浪费时间？"
+    },
+    "solution": {
+      "title": "我们的解方",
+      "description": "用「八字」＋「MBTI」剖析个性、理解互动模式，帮你找到契合又长久的伴侣关系。"
+    }
+  },
+  "whyChoose": {
+    "title": "为什么选择 {appName}？",
+    "items": [
+      {
+        "title": "精准八字排盘系统",
+        "description": "准确采用传统干支、五行、十神\n确保命盘分析精准无误"
+      },
+      {
+        "title": "智能配对",
+        "description": "结合命盘结构与MBTI，找出高契合对象融合命理与心理学"
+      },
+      {
+        "title": "恋爱建议提醒",
+        "description": "知道你们在意什么、避开什么\n例：火土冲、比肩过多\n减少关系摩擦"
+      },
+      {
+        "title": "命格搜寻",
+        "badge": "付费功能",
+        "description": "找想特定命格的伴侣吗？\n喜木火的人、财星格局、日主强旺对象...\n设定你想要的五行条件，让命运不再全靠运气"
+      }
+    ]
+  },
+  "footer": {
+    "tagline": "让缘分撞天命，科学配对真爱",
+    "sections": {
+      "explore": {
+        "title": "探索",
+        "items": [
+          "首页功能",
+          "交友功能",
+          "配对系统",
+          "隐私设定"
+        ]
+      },
+      "support": {
+        "title": "支持",
+        "items": [
+          "客服中心",
+          "常见问题",
+          "安全须知",
+          "问题反馈"
+        ]
+      },
+      "legal": {
+        "title": "法律声明",
+        "items": [
+          "隐私政策",
+          "服务条款",
+          "Cookie政策",
+          "社群守则"
+        ]
+      }
+    },
+    "copyright": "© 2024 NAME. All rights reserved."
+  },
+  "testimonials": {
+    "title": "用户好评与故事见证",
+    "subtitle": "听听他们如何藉由八字缘分找到真爱",
+    "matchWithGirlfriend": "与女友匹配度",
+    "matchWithBoyfriend": "与男友匹配度"
+  },
+  "languageSelector": {
+    "title": "选择语言",
+    "footer": "您的语言偏好将会被记住"
+  },
+  "faq": {
+    "title": "常见问题"
+  },
+  "download": {
+    "title": "命中注定的相遇 从现在开始",
+    "subtitle": "成为首批体验者",
+    "description": "获得一个月高级会员资格与专属一对一咨询机会"
+  }
+}
