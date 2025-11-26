@@ -1,0 +1,277 @@
+{
+  "header": {
+    "nav": {
+      "product": "Product",
+      "features": "Advanced Features",
+      "security": "Security"
+    },
+    "language": "Language",
+    "download": "Download"
+  },
+  "hero": {
+    "title": "Let Fate Meet Destiny",
+    "subtitle": "Through Science",
+    "description": "Combining Ba Zi fortune-telling to find your most compatible soulmate",
+    "cta": {
+      "join": "Join Now",
+      "explore": "Advanced Features"
+    },
+    "support": "Supports iOS / Android"
+  },
+  "features": {
+    "title": "Have you ever...",
+    "problems": {
+      "problem1": "Always failed to find compatible partners?",
+      "problem2": "Stuck with the same relationship issues repeatedly?",
+      "problem3": "Don't know how to understand your partner's emotions and reactions?",
+      "problem4": "Discovered personality incompatibility only after dating, wasting time?"
+    },
+    "solution": {
+      "title": "Our Solution",
+      "description": "Using 'Ba Zi' + 'MBTI' to analyze personality and understand interaction patterns, helping you find compatible and lasting relationships."
+    }
+  },
+  "whyChoose": {
+    "title": "Why Choose {appName}?",
+    "items": [
+      {
+        "title": "Precise Ba Zi Chart System",
+        "description": "Accurately using traditional Heavenly Stems, Earthly Branches, Five Elements, and Ten Gods\nEnsuring precise and accurate destiny chart analysis"
+      },
+      {
+        "title": "Intelligent Matching",
+        "description": "Combining destiny chart structure with MBTI to find highly compatible partners, merging fortune-telling with psychology"
+      },
+      {
+        "title": "Relationship Advice Reminders",
+        "description": "Know what you both care about and what to avoid\nExample: Fire-Earth conflicts, excessive Parallel Shoulders\nReduce relationship friction"
+      },
+      {
+        "title": "Destiny Pattern Search",
+        "badge": "Premium Feature",
+        "description": "Looking for partners with specific destiny patterns?\nWood-Fire lovers, Wealth Star patterns, strong Day Master partners...\nSet your desired Five Elements conditions, let destiny not rely entirely on luck"
+      }
+    ]
+  },
+  "footer": {
+    "tagline": "Let fate meet destiny, scientifically match true love",
+    "sections": {
+      "explore": {
+        "title": "Explore",
+        "items": [
+          "Home Features",
+          "Dating Features",
+          "Matching System",
+          "Privacy Settings"
+        ]
+      },
+      "support": {
+        "title": "Support",
+        "items": [
+          "Customer Service",
+          "FAQ",
+          "Safety Guidelines",
+          "Report Issues"
+        ]
+      },
+      "legal": {
+        "title": "Legal",
+        "items": [
+          "Privacy Policy",
+          "Terms of Service",
+          "Cookie Policy",
+          "Community Guidelines"
+        ]
+      }
+    },
+    "copyright": "© 2024 Kosmeet. All rights reserved."
+  },
+  "testimonials": {
+    "title": "User Reviews & Success Stories",
+    "subtitle": "Hear how they found true love through Ba Zi compatibility",
+    "matchWithGirlfriend": "Compatibility with girlfriend",
+    "matchWithBoyfriend": "Compatibility with boyfriend"
+  },
+  "languageSelector": {
+    "title": "Select Language",
+    "footer": "Your language preference will be remembered"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions"
+  },
+  "download": {
+    "title": "Destined Encounters Start Now",
+    "subtitle": "Become an Early Adopter",
+    "description": "Get one month of premium membership and exclusive one-on-one consultation"
+  },
+
+  "privacyPolicy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: November 26, 2024",
+    "intro": "This Privacy Policy describes the information collected by 星遇 (Hoshimeet), how that information may be used, with whom it may be shared, and your choices about such uses and disclosures. By using Kosmeet, you agree to the practices set forth in this Policy.",
+
+    "section1": {
+      "title": "1. Information We Collect",
+      "subtitle1": "Information You Provide",
+      "description1": "When you register with Kosmeet, you provide:",
+      "items1": [
+        "Account Information: Email, password, username or real name",
+        "Profile Information: Photos, bio, gender, gender preference",
+        "Birth Data: Date, time, and place of birth (for Ba Zi analysis)",
+        "Personality Data: MBTI personality type",
+        "Payment Information: Processed securely through Apple Pay or Google Pay",
+        "Government ID: If you choose to verify your identity, you may provide a copy of your government-issued ID"
+      ],
+      "subtitle2": "Information from Third-Party Services",
+      "description2": "If you sign in using Google, we receive:",
+      "items2": [
+        "Your name, email address, and profile photo from Google",
+        "We only access information you authorize through Google's permission system"
+      ],
+      "subtitle3": "Information Collected Automatically",
+      "description3": "When you use Kosmeet, we automatically collect:",
+      "items3": [
+        "Device Information: Device type, OS, unique identifiers, advertising ID, IP address",
+        "Location Data: GPS location (with your permission)",
+        "Usage Information: Features accessed, profiles viewed, matches made, time spent",
+        "Log Data: Access times, pages viewed, app crashes, system activity",
+        "Communications: Messages exchanged with other users"
+      ],
+      "subtitle4": "Other Information",
+      "description4": "We may also collect:",
+      "items4": [
+        "Data from Other Users: Reports or queries involving you submitted by other users",
+        "Survey and Research Data: Your responses when you participate in surveys or studies",
+        "Referral Data: Contact information of friends you invite to Kosmeet"
+      ]
+    },
+
+    "section2": {
+      "title": "2. How We Use Your Information",
+      "description": "We use the information we collect for the following purposes:",
+      "items": [
+        "Provide Our Services: Create your account, facilitate matches based on Ba Zi and MBTI compatibility, enable communication (Legal basis: Contract)",
+        "Personalize Your Experience: Generate your Ba Zi chart and provide compatibility insights (Legal basis: Contract)",
+        "Improve Our Services: Analyze trends, usage patterns, and conduct research (Legal basis: Legitimate interest)",
+        "Customer Support: Respond to your questions and provide assistance (Legal basis: Contract)",
+        "Safety and Security: Prevent fraud, investigate violations, verify identity (Legal basis: Legitimate interest, Legal obligation)",
+        "Communications: Send service notices, updates, and security alerts (Legal basis: Contract)",
+        "Marketing: Send promotional communications with your consent (Legal basis: Consent)",
+        "Legal Compliance: Comply with applicable laws and regulations (Legal basis: Legal obligation)"
+      ]
+    },
+
+    "section3": {
+      "title": "3. How We Share Your Information",
+      "description": "We do not sell your personal information. We may share your information:",
+      "items": [
+        "With Other Users: Your profile and compatibility scores are visible to facilitate matching. If someone reports you, we may inform them of actions taken.",
+        "With Service Providers: Firebase (authentication, database, analytics), Apple/Google (payment processing)",
+        "For Legal Reasons: When required by law, to investigate illegal activity, or to protect safety",
+        "Business Transfers: In connection with mergers, acquisitions, or asset sales"
+      ]
+    },
+
+    "section4": {
+      "title": "4. Cookies and Tracking Technologies",
+      "description": "We use cookies and similar technologies to improve our services:",
+      "items": [
+        "Essential Cookies: Remember your login status and preferences",
+        "Analytics Cookies: Understand how our service is used and identify improvements",
+        "Functional Cookies: Remember your settings and personalize your experience",
+        "Third-Party Cookies: Our service providers (such as Firebase) may place cookies to analyze usage"
+      ],
+      "choices": "You can control cookies through your browser or device settings. You can reset your device's advertising identifier in your device settings. Disabling cookies may affect some functionality.",
+      "doNotTrack": "We currently do not respond to 'Do Not Track' signals as there is no industry standard for handling them."
+    },
+
+    "section5": {
+      "title": "5. Data Storage and Security",
+      "description": "Your information is stored on secure servers provided by Firebase (Google Cloud). We implement appropriate security measures including:",
+      "items": [
+        "Encryption of data in transit (TLS/SSL) and at rest",
+        "Secure authentication through Firebase Auth",
+        "Regular security assessments and monitoring",
+        "Access controls limiting who can access your data"
+      ],
+      "disclaimer": "However, no method of transmission is 100% secure. We cannot guarantee absolute security."
+    },
+
+    "section6": {
+      "title": "6. Data Retention",
+      "description": "We retain your information while your account is active.",
+      "inactive": "Inactive Accounts: If you do not use Kosmeet for one (1) year, we will automatically close your account.",
+      "retention": "After account closure:",
+      "items": [
+        "Profile and personal data: 90 days (safety retention window to investigate harmful conduct)",
+        "Transaction data: 10 years (tax and accounting requirements)",
+        "Customer support records: 6 years",
+        "Consent records: 5 years (evidence of compliance)",
+        "Traffic logs: 1 year (legal requirements)"
+      ],
+      "banned": "If your account is banned, we retain data necessary to prevent you from creating a new account to ensure community safety."
+    },
+
+    "section7": {
+      "title": "7. Your Rights and Choices",
+      "description": "Depending on your location, you have the right to:",
+      "items": [
+        "Access and download your personal information",
+        "Update or correct your profile information",
+        "Delete your account at any time",
+        "Withdraw consent for data processing",
+        "Object to or restrict certain processing",
+        "Disable location services through device settings",
+        "Opt out of push notifications"
+      ],
+      "exercise": "To exercise these rights, contact us at: hoshimeet{'@'}gmail.com",
+      "appeal": "Appeal Process: If we deny your privacy request, you may appeal by emailing us with the subject line 'Privacy Request Appeal'. We will review and respond within a reasonable timeframe.",
+      "complaints": "UK/EEA users may lodge complaints with their local data protection authority (UK: ico.org.uk, EEA: edpb.europa.eu)."
+    },
+
+    "section8": {
+      "title": "8. Age Restriction",
+      "description": "Kosmeet is intended for users 18 years of age or older. We do not permit individuals under 18 on our platform. If you suspect a member is under 18, please report them using the reporting feature in the app."
+    },
+
+    "section9": {
+      "title": "9. International Data Transfers",
+      "description": "Your information may be transferred to and processed in Taiwan and other countries where our servers are located. By using Kosmeet, you consent to this transfer. Where required by law, we use appropriate safeguards such as Standard Contractual Clauses."
+    },
+
+    "section10": {
+      "title": "10. Region-Specific Rights",
+      "california": "California Residents (CCPA/CPRA): You have the right to know, access, delete, and correct your personal information. You may opt out of the 'sale' of personal information (we do not sell your data). Contact us to exercise these rights.",
+      "uk": "UK Residents (UK GDPR): You have additional rights as described in Section 7, including the right to lodge a complaint with the ICO.",
+      "other": "Residents of Canada, Japan, Korea, Singapore, and Taiwan have rights under their respective data protection laws, including rights to access, correct, and delete personal data."
+    },
+
+    "section11": {
+      "title": "11. Cookies Policy",
+      "description": "For detailed information about how we use cookies, please see Section 4 above. You can manage your cookie preferences through your browser settings."
+    },
+
+    "section12": {
+      "title": "12. Third-Party Links",
+      "description": "Kosmeet may contain links to third-party websites or services. We are not responsible for their privacy practices. We encourage you to read their privacy policies."
+    },
+
+    "section13": {
+      "title": "13. Children's Privacy",
+      "description": "Kosmeet is not directed to children under 18. We do not knowingly collect information from children. If you believe a child has provided us with personal information, please contact us immediately."
+    },
+
+    "section14": {
+      "title": "14. Changes to This Policy",
+      "description": "We may update this Privacy Policy from time to time. If we make material changes, we will notify you through the app or by email before the changes take effect."
+    },
+
+    "section15": {
+      "title": "15. Contact Us",
+      "description": "If you have any questions about this Privacy Policy, please contact us at:",
+      "company": "星遇 (Hoshimeet)",
+      "location": "Taiwan",
+      "email": "hoshimeet{'@'}gmail.com"
+    }
+  }
+}

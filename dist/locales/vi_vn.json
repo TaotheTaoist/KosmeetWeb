@@ -1,0 +1,134 @@
+{
+  "header": {
+    "nav": {
+      "product": "Sản phẩm",
+      "features": "Tính năng nâng cao",
+      "security": "Bảo mật"
+    },
+    "language": "Ngôn ngữ",
+    "download": "Tải xuống"
+  },
+  "hero": {
+    "title": "Hãy để duyên phận theo thiên ý",
+    "subtitle": "Và cũng dựa vào khoa học",
+    "description": "Kết hợp số mệnh Bát Tự để tìm được người bạn đời hợp nhất với linh hồn bạn",
+    "cta": {
+      "join": "Tham gia ngay",
+      "explore": "Các tính năng nâng cao"
+    },
+    "support": "Hỗ trợ iOS / Android"
+  },
+  "features": {
+    "title": "Bạn có bao giờ...",
+    "problems": {
+      "problem1": "Luôn không tìm được người phù hợp?",
+      "problem2": "Mỗi mối quan hệ đều gặp cùng một vấn đề?",
+      "problem3": "Không biết cách hiểu cảm xúc và phản ứng của đối phương?",
+      "problem4": "Chỉ sau khi hẹn hò mới phát hiện tính cách không hợp, lãng phí thời gian?"
+    },
+    "solution": {
+      "title": "Giải pháp của chúng tôi",
+      "description": "Sử dụng 'Bát Tự' + 'MBTI' để phân tích tính cách, hiểu mô hình tương tác, giúp bạn tìm được mối quan hệ đối tác hợp nhất và bền vững."
+    }
+  },
+  "whyChoose": {
+    "title": "Tại sao chọn {appName}?",
+    "items": [
+      {
+        "title": "Hệ thống lập bản đồ Bát Tự chính xác",
+        "description": "Sử dụng chính xác Thiên Can, Địa Chi, Ngũ Hành, Thập Thần truyền thống\nĐảm bảo phân tích bản mệnh chính xác và không sai lệch"
+      },
+      {
+        "title": "Ghép đôi thông minh",
+        "description": "Kết hợp cấu trúc bản mệnh với MBTI, tìm ra đối tác có độ tương thích cao, kết hợp tượng số học và tâm lý học"
+      },
+      {
+        "title": "Nhắc nhở lời khuyên tình yêu",
+        "description": "Biết bạn quan tâm điều gì, tránh điều gì\nVí dụ: Xung đột Hỏa-Thổ, quá nhiều Bí Giản\nGiảm ma sát trong mối quan hệ"
+      },
+      {
+        "title": "Tìm kiếm theo bản mệnh",
+        "badge": "Tính năng trả phí",
+        "description": "Muốn tìm đối tác có bản mệnh cụ thể?\nNgười thích Mộc-Hỏa, cácê Tài Tinh, đối tác Nhật Chủ mạnh...\nĐặt điều kiện Ngũ Hành mong muốn, đừng để số phận chỉ dựa vào may mắn"
+      }
+    ]
+  },
+  "footer": {
+    "tagline": "Hãy để duyên phận gặp gỡ số mệnh, ghép đôi khoa học cho tình yêu chân thành",
+    "sections": {
+      "explore": {
+        "title": "Khám phá",
+        "items": [
+          "Tính năng trang chủ",
+          "Tính năng hẹn hò",
+          "Hệ thống ghép đôi",
+          "Cài đặt riêng tư"
+        ]
+      },
+      "support": {
+        "title": "Hỗ trợ",
+        "items": [
+          "Trung tâm khách hàng",
+          "Câu hỏi thường gặp",
+          "Hướng dẫn an toàn",
+          "Báo cáo sự cố"
+        ]
+      },
+      "legal": {
+        "title": "Pháp lý",
+        "items": [
+          "Chính sách bảo mật",
+          "Điều khoản dịch vụ",
+          "Chính sách Cookie",
+          "Quy định cộng đồng"
+        ]
+      }
+    },
+    "copyright": "© 2024 Kosmeet. Tất cả quyền được bảo lưu."
+  },
+  "testimonials": {
+    "title": "Đánh giá người dùng và câu chuyện thành công",
+    "subtitle": "Nghe họ kể về cách tìm được tình yêu đích thực qua tương thích Bát Tự",
+    "matchWithGirlfriend": "Độ tương thích với bạn gái",
+    "matchWithBoyfriend": "Độ tương thích với bạn trai"
+  },
+  "languageSelector": {
+    "title": "Chọn ngôn ngữ",
+    "footer": "Thiết lập ngôn ngữ của bạn sẽ được ghi nhớ"
+  },
+  "faq": {
+    "title": "Câu hỏi thường gặp"
+  },
+  "download": {
+    "title": "Cuộc gặp gỡ số phận bắt đầu từ bây giờ",
+    "subtitle": "Trở thành người dùng sớm",
+    "description": "Nhận một tháng thành viên cao cấp và cơ hội tư vấn 1-1 riêng biệt"
+  },
+  "privacyPolicy": {
+    "title": "Chính sách bảo mật",
+    "section1": {
+      "title": "1. Thông tin chúng tôi thu thập",
+      "description": "Chúng tôi thu thập thông tin bạn cung cấp trực tiếp cho chúng tôi, bao gồm:",
+      "items": [
+        "Dữ liệu sinh nhật Bát Tự (ngày, giờ, nơi sinh)",
+        "Loại tính cách MBTI",
+        "Thông tin hồ sơ (tên, ảnh, giới thiệu bản thân)",
+        "Thông tin liên hệ (email, số điện thoại)"
+      ]
+    },
+    "section2": {
+      "title": "2. Cách chúng tôi sử dụng thông tin",
+      "description": "Chúng tôi sử dụng thông tin thu thập được để:",
+      "items": [
+        "Cung cấp và duy trì dịch vụ của chúng tôi",
+        "Ghép đôi bạn với đối tác tương thích",
+        "Phân tích độ tương thích Bát Tự và MBTI"
+      ]
+    },
+    "section3": {
+      "title": "3. Liên hệ với chúng tôi",
+      "description": "Nếu bạn có bất kỳ câu hỏi nào về Chính sách bảo mật này, vui lòng liên hệ: hoshimeet{'@'}gmail.com"
+    },
+    "lastUpdated": "Cập nhật lần cuối: Ngày 26 tháng 11 năm 2024"
+  }
+}
