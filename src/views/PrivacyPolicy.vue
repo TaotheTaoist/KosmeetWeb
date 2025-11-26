@@ -1,79 +1,193 @@
 <script setup lang="ts">
 import AppHeader from "../components/AppHeader.vue";
 import AppFooter from "../components/AppFooter.vue";
+import { useI18n } from "vue-i18n";
+const { t, tm } = useI18n();
 </script>
 
 <template>
-  <div
-    class="min-h-screen bg-gradient-to-b from-purple-900 via-purple-800 to-gray-900"
-  >
+  <div class="min-h-screen bg-gray-900 flex flex-col">
     <AppHeader />
-    <div class="max-w-4xl mx-auto px-4 pt-40 pb-24 text-white">
-      <h1 class="text-4xl font-bold mb-8">隱私政策 / Privacy Policy</h1>
+    <main class="privacy-content flex-1">
+      <h1>{{ t("privacyPolicy.title") }}</h1>
+      <p class="updated">{{ t("privacyPolicy.lastUpdated") }}</p>
+      <p class="intro">{{ t("privacyPolicy.intro") }}</p>
 
-      <div class="space-y-8 text-gray-300">
-        <section>
-          <h2 class="text-2xl font-semibold text-white mb-4">
-            1. 資訊收集 / Information We Collect
-          </h2>
-          <p class="mb-2">我們收集您直接提供給我們的資訊，包括：</p>
-          <ul class="list-disc list-inside space-y-1 ml-4">
-            <li>八字生辰資料（出生日期、時間、地點）</li>
-            <li>MBTI 性格類型</li>
-            <li>個人檔案資訊（姓名、照片、自我介紹）</li>
-            <li>聯絡資訊（電子郵件、電話號碼）</li>
-          </ul>
-        </section>
+      <!-- Section 1 -->
+      <section>
+        <h2>{{ t("privacyPolicy.section1.title") }}</h2>
 
-        <section>
-          <h2 class="text-2xl font-semibold text-white mb-4">
-            2. 資訊使用 / How We Use Your Information
-          </h2>
-          <p class="mb-2">我們使用收集的資訊來：</p>
-          <ul class="list-disc list-inside space-y-1 ml-4">
-            <li>提供和維護我們的服務</li>
-            <li>為您匹配相容的伴侶</li>
-            <li>分析八字和 MBTI 相容性</li>
-            <li>改進我們的配對算法</li>
-            <li>與您溝通服務更新和通知</li>
-          </ul>
-        </section>
+        <h3>{{ t("privacyPolicy.section1.subtitle1") }}</h3>
+        <p>{{ t("privacyPolicy.section1.description1") }}</p>
+        <ul>
+          <li
+            v-for="(item, index) in tm('privacyPolicy.section1.items1')"
+            :key="index"
+          >
+            {{ item }}
+          </li>
+        </ul>
 
-        <section>
-          <h2 class="text-2xl font-semibold text-white mb-4">
-            3. 資訊分享 / Information Sharing
-          </h2>
-          <p>
-            我們不會將您的個人資訊出售給第三方。我們只會在以下情況下分享資訊：
-          </p>
-          <ul class="list-disc list-inside space-y-1 ml-4 mt-2">
-            <li>經您同意</li>
-            <li>與潛在配對對象分享您的公開個人檔案資訊</li>
-            <li>與服務提供商分享（如雲端儲存、分析工具）</li>
-            <li>遵守法律要求</li>
-          </ul>
-        </section>
+        <h3>{{ t("privacyPolicy.section1.subtitle2") }}</h3>
+        <p>{{ t("privacyPolicy.section1.description2") }}</p>
+        <ul>
+          <li
+            v-for="(item, index) in tm('privacyPolicy.section1.items2')"
+            :key="index"
+          >
+            {{ item }}
+          </li>
+        </ul>
+      </section>
 
-        <section>
-          <h2 class="text-2xl font-semibold text-white mb-4">
-            4. 資料安全 / Data Security
-          </h2>
-          <p>我們採取適當的技術和組織安全措施來保護您的個人資訊。</p>
-        </section>
+      <!-- Section 2 -->
+      <section>
+        <h2>{{ t("privacyPolicy.section2.title") }}</h2>
+        <p>{{ t("privacyPolicy.section2.description") }}</p>
+        <ul>
+          <li
+            v-for="(item, index) in tm('privacyPolicy.section2.items')"
+            :key="index"
+          >
+            {{ item }}
+          </li>
+        </ul>
+      </section>
 
-        <section>
-          <h2 class="text-2xl font-semibold text-white mb-4">
-            5. 聯絡我們 / Contact Us
-          </h2>
-          <p>如對本隱私政策有任何疑問，請聯繫：privacy@kosmeet.com</p>
-        </section>
+      <!-- Section 3 -->
+      <section>
+        <h2>{{ t("privacyPolicy.section3.title") }}</h2>
+        <p>{{ t("privacyPolicy.section3.description") }}</p>
+        <ul>
+          <li
+            v-for="(item, index) in tm('privacyPolicy.section3.items')"
+            :key="index"
+          >
+            {{ item }}
+          </li>
+        </ul>
+      </section>
 
-        <div class="text-sm text-gray-500 mt-8">
-          最後更新日期：2024年11月26日
-        </div>
-      </div>
-    </div>
+      <!-- Add remaining sections 4-10 -->
+      <section>
+        <h2>{{ t("privacyPolicy.section4.title") }}</h2>
+        <p>{{ t("privacyPolicy.section4.description") }}</p>
+      </section>
 
+      <section>
+        <h2>{{ t("privacyPolicy.section5.title") }}</h2>
+        <p>{{ t("privacyPolicy.section5.description") }}</p>
+      </section>
+
+      <section>
+        <h2>{{ t("privacyPolicy.section6.title") }}</h2>
+        <p>{{ t("privacyPolicy.section6.description") }}</p>
+        <ul>
+          <li
+            v-for="(item, index) in tm('privacyPolicy.section6.items')"
+            :key="index"
+          >
+            {{ item }}
+          </li>
+        </ul>
+      </section>
+
+      <section>
+        <h2>{{ t("privacyPolicy.section7.title") }}</h2>
+        <p>{{ t("privacyPolicy.section7.description") }}</p>
+      </section>
+
+      <section>
+        <h2>{{ t("privacyPolicy.section8.title") }}</h2>
+        <p>{{ t("privacyPolicy.section8.description") }}</p>
+      </section>
+
+      <section>
+        <h2>{{ t("privacyPolicy.section9.title") }}</h2>
+        <p>{{ t("privacyPolicy.section9.description") }}</p>
+      </section>
+
+      <!-- <section>
+        <h2>{{ t("privacyPolicy.section10.title") }}</h2>
+        <p>{{ t("privacyPolicy.section10.description") }}</p>
+        <p class="contact-info">
+          <strong>{{ t("privacyPolicy.section10.company") }}</strong
+          ><br />
+          {{ t("privacyPolicy.section10.location") }}<br />
+          {{ t("privacyPolicy.section10.email") }}
+        </p>
+      </section> -->
+    </main>
     <AppFooter />
   </div>
 </template>
+
+<style scoped>
+.privacy-content {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 120px 20px 60px; /* Increased top padding */
+  color: white;
+}
+
+h1 {
+  font-size: 2.5rem;
+  margin-bottom: 8px;
+  color: #f472b6;
+}
+
+.updated {
+  color: #888;
+  margin-bottom: 20px;
+}
+
+.intro {
+  color: #d1d5db;
+  line-height: 1.7;
+  margin-bottom: 40px;
+}
+
+section {
+  margin-bottom: 48px; /* Increased spacing */
+}
+
+h2 {
+  font-size: 1.5rem;
+  margin-bottom: 16px;
+  margin-top: 24px;
+  color: #f472b6;
+}
+
+h3 {
+  font-size: 1.2rem;
+  margin-bottom: 12px;
+  margin-top: 20px;
+  color: #ec4899;
+}
+
+p {
+  color: #d1d5db;
+  line-height: 1.7;
+  margin-bottom: 12px;
+}
+
+ul {
+  margin-top: 12px;
+  margin-bottom: 16px;
+  padding-left: 24px;
+}
+
+li {
+  color: #9ca3af;
+  margin-bottom: 8px;
+  list-style-type: disc;
+  line-height: 1.6;
+}
+
+.contact-info {
+  background: rgba(244, 114, 182, 0.1);
+  padding: 16px;
+  border-radius: 8px;
+  border-left: 4px solid #f472b6;
+}
+</style>

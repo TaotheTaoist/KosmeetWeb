@@ -84,7 +84,7 @@
         ]
       }
     },
-    "copyright": "© 2024 NAME. Tất cả quyền được bảo lưu."
+    "copyright": "© 2024 Kosmeet. Tất cả quyền được bảo lưu."
   },
   "testimonials": {
     "title": "Đánh giá người dùng và câu chuyện thành công",
@@ -103,5 +103,32 @@
     "title": "Cuộc gặp gỡ số phận bắt đầu từ bây giờ",
     "subtitle": "Trở thành người dùng sớm",
     "description": "Nhận một tháng thành viên cao cấp và cơ hội tư vấn 1-1 riêng biệt"
+  },
+  "privacyPolicy": {
+    "title": "Chính sách bảo mật",
+    "section1": {
+      "title": "1. Thông tin chúng tôi thu thập",
+      "description": "Chúng tôi thu thập thông tin bạn cung cấp trực tiếp cho chúng tôi, bao gồm:",
+      "items": [
+        "Dữ liệu sinh nhật Bát Tự (ngày, giờ, nơi sinh)",
+        "Loại tính cách MBTI",
+        "Thông tin hồ sơ (tên, ảnh, giới thiệu bản thân)",
+        "Thông tin liên hệ (email, số điện thoại)"
+      ]
+    },
+    "section2": {
+      "title": "2. Cách chúng tôi sử dụng thông tin",
+      "description": "Chúng tôi sử dụng thông tin thu thập được để:",
+      "items": [
+        "Cung cấp và duy trì dịch vụ của chúng tôi",
+        "Ghép đôi bạn với đối tác tương thích",
+        "Phân tích độ tương thích Bát Tự và MBTI"
+      ]
+    },
+    "section3": {
+      "title": "3. Liên hệ với chúng tôi",
+      "description": "Nếu bạn có bất kỳ câu hỏi nào về Chính sách bảo mật này, vui lòng liên hệ: hoshimeet{'@'}gmail.com"
+    },
+    "lastUpdated": "Cập nhật lần cuối: Ngày 26 tháng 11 năm 2024"
   }
 }
