@@ -2,67 +2,67 @@
   "header": {
     "nav": {
       "product": "Sản phẩm",
-      "features": "Tính năng nâng cao",
+      "features": "Tính năng",
       "security": "Bảo mật"
     },
     "language": "Ngôn ngữ",
     "download": "Tải xuống"
   },
   "hero": {
-    "title": "Hãy để duyên phận theo thiên ý",
-    "subtitle": "Và cũng dựa vào khoa học",
-    "description": "Kết hợp số mệnh Bát Tự để tìm được người bạn đời hợp nhất với linh hồn bạn",
+    "title": "Duyên trời định đoạt",
+    "subtitle": "Khoa học minh chứng",
+    "description": "Kết hợp Tử vi Bát tự để tìm người thân tâm hợp nhất",
     "cta": {
       "join": "Tham gia ngay",
-      "explore": "Các tính năng nâng cao"
+      "explore": "Khám phá tính năng"
     },
     "support": "Hỗ trợ iOS / Android"
   },
   "features": {
-    "title": "Bạn có bao giờ...",
+    "title": "Bạn đã từng gặp những trường hợp này?",
     "problems": {
-      "problem1": "Luôn không tìm được người phù hợp?",
-      "problem2": "Mỗi mối quan hệ đều gặp cùng một vấn đề?",
-      "problem3": "Không biết cách hiểu cảm xúc và phản ứng của đối phương?",
-      "problem4": "Chỉ sau khi hẹn hò mới phát hiện tính cách không hợp, lãng phí thời gian?"
+      "problem1": "Khó tìm người hợp gu?",
+      "problem2": "Mỗi lần yêu đều gặp vấn đề giống nhau?",
+      "problem3": "Khó hiểu cảm xúc và phản ứng của đối phương?",
+      "problem4": "Hẹn hò rồi mới biết tính cách không hợp?"
     },
     "solution": {
       "title": "Giải pháp của chúng tôi",
-      "description": "Sử dụng 'Bát Tự' + 'MBTI' để phân tích tính cách, hiểu mô hình tương tác, giúp bạn tìm được mối quan hệ đối tác hợp nhất và bền vững."
+      "description": "「Tử vi」＋「MBTI」phân tích tính cách và hiểu mô hình tương tác, giúp bạn tìm người hợp và bền lâu."
     }
   },
   "whyChoose": {
     "title": "Tại sao chọn {appName}?",
     "items": [
       {
-        "title": "Hệ thống lập bản đồ Bát Tự chính xác",
-        "description": "Sử dụng chính xác Thiên Can, Địa Chi, Ngũ Hành, Thập Thần truyền thống\nĐảm bảo phân tích bản mệnh chính xác và không sai lệch"
+        "title": "Hệ thống Tử vi chính xác",
+        "description": "Áp dụng chính xác Thiên can, Địa chi, Ngũ hành, Thập thần truyền thống\nĐảm bảo độ chính xác của phân tích lá số"
       },
       {
         "title": "Ghép đôi thông minh",
-        "description": "Kết hợp cấu trúc bản mệnh với MBTI, tìm ra đối tác có độ tương thích cao, kết hợp tượng số học và tâm lý học"
+        "description": "Kết hợp cấu trúc lá số và MBTI để tìm người hợp cao\nHòa quyện Tử vi học và tâm lý học"
       },
       {
-        "title": "Nhắc nhở lời khuyên tình yêu",
-        "description": "Biết bạn quan tâm điều gì, tránh điều gì\nVí dụ: Xung đột Hỏa-Thổ, quá nhiều Bí Giản\nGiảm ma sát trong mối quan hệ"
+        "title": "Lời khuyên yêu đương",
+        "description": "Nắm bắt những gì hai bên coi trọng và cần tránh\nVí dụ: Hỏa Thổ xung khắc, Tỷ kiên quá nhiều\nGiảm ma sát trong mối quan hệ"
       },
       {
-        "title": "Tìm kiếm theo bản mệnh",
-        "badge": "Tính năng trả phí",
-        "description": "Muốn tìm đối tác có bản mệnh cụ thể?\nNgười thích Mộc-Hỏa, cácê Tài Tinh, đối tác Nhật Chủ mạnh...\nĐặt điều kiện Ngũ Hành mong muốn, đừng để số phận chỉ dựa vào may mắn"
+        "title": "Tìm kiếm theo mệnh",
+        "badge": "Tính năng cao cấp",
+        "description": "Đang tìm người có mệnh đặc biệt?\nNgười thích Mộc Hỏa, cách Tài tinh, Nhật chủ cường vượng...\nThiết lập điều kiện Ngũ hành mong muốn và tự chọn vận mệnh"
       }
     ]
   },
   "footer": {
-    "tagline": "Hãy để duyên phận gặp gỡ số mệnh, ghép đôi khoa học cho tình yêu chân thành",
+    "tagline": "Duyên trời định, khoa học ghép đôi tình yêu chân thật",
     "sections": {
       "explore": {
         "title": "Khám phá",
         "items": [
           "Tính năng trang chủ",
-          "Tính năng hẹn hò",
+          "Tính năng xã hội",
           "Hệ thống ghép đôi",
-          "Cài đặt riêng tư"
+          "Cài đặt cá nhân"
         ]
       },
       "support": {
@@ -71,7 +71,7 @@
           "Trung tâm khách hàng",
           "Câu hỏi thường gặp",
           "Hướng dẫn an toàn",
-          "Báo cáo sự cố"
+          "Báo cáo vấn đề"
         ]
       },
       "legal": {
@@ -79,56 +79,425 @@
         "items": [
           "Chính sách bảo mật",
           "Điều khoản dịch vụ",
-          "Chính sách Cookie",
-          "Quy định cộng đồng"
+          "Chính sách cookie",
+          "Quy tắc cộng đồng"
         ]
       }
     },
-    "copyright": "© 2024 Kosmeet. Tất cả quyền được bảo lưu."
+    "copyright": "© 2024 KosMeet. Bảo lưu mọi quyền."
   },
   "testimonials": {
     "title": "Đánh giá người dùng và câu chuyện thành công",
-    "subtitle": "Nghe họ kể về cách tìm được tình yêu đích thực qua tương thích Bát Tự",
-    "matchWithGirlfriend": "Độ tương thích với bạn gái",
-    "matchWithBoyfriend": "Độ tương thích với bạn trai"
+    "subtitle": "Những câu chuyện tìm thấy tình yêu đích thực qua duyên Tử vi",
+    "matchWithGirlfriend": "Độ hợp với bạn gái",
+    "matchWithBoyfriend": "Độ hợp với bạn trai"
   },
   "languageSelector": {
     "title": "Chọn ngôn ngữ",
-    "footer": "Thiết lập ngôn ngữ của bạn sẽ được ghi nhớ"
+    "footer": "Cài đặt ngôn ngữ sẽ được lưu"
   },
   "faq": {
     "title": "Câu hỏi thường gặp"
   },
   "download": {
-    "title": "Cuộc gặp gỡ số phận bắt đầu từ bây giờ",
-    "subtitle": "Trở thành người dùng sớm",
-    "description": "Nhận một tháng thành viên cao cấp và cơ hội tư vấn 1-1 riêng biệt"
+    "title": "Cuộc gặp gỡ định mệnh bắt đầu từ bây giờ",
+    "subtitle": "Trở thành người dùng tiên phong",
+    "description": "Tặng 1 tháng thành viên cao cấp và cơ hội tư vấn 1:1 riêng"
   },
   "privacyPolicy": {
-    "title": "Chính sách bảo mật",
+    "title": "Chính sách Bảo mật",
+    "lastUpdated": "Cập nhật lần cuối: 28 tháng 11 năm 2024",
+    "intro": "Chính sách Bảo mật này mô tả thông tin mà KosMeet thu thập, cách sử dụng, cách chia sẻ và quyền của bạn. Việc sử dụng KosMeet đồng nghĩa với việc bạn đồng ý với nội dung được quy định trong chính sách này.",
     "section1": {
       "title": "1. Thông tin chúng tôi thu thập",
-      "description": "Chúng tôi thu thập thông tin bạn cung cấp trực tiếp cho chúng tôi, bao gồm:",
-      "items": [
-        "Dữ liệu sinh nhật Bát Tự (ngày, giờ, nơi sinh)",
-        "Loại tính cách MBTI",
-        "Thông tin hồ sơ (tên, ảnh, giới thiệu bản thân)",
-        "Thông tin liên hệ (email, số điện thoại)"
+      "subtitle1": "Thông tin bạn cung cấp",
+      "description1": "Khi đăng ký hoặc sử dụng KosMeet, bạn có thể cung cấp các thông tin sau:",
+      "items1": [
+        "Thông tin tài khoản: Email, mật khẩu, biệt danh hoặc tên thật",
+        "Thông tin hồ sơ: Ảnh, giới thiệu bản thân, giới tính, sở thích giới tính",
+        "Thông tin ngày sinh: Ngày sinh, giờ sinh, nơi sinh (dùng để phân tích hợp tuổi, là thông tin nhạy cảm chỉ được xử lý khi tự nguyện cung cấp và đồng ý rõ ràng)",
+        "Thông tin tính cách: Loại tính cách MBTI",
+        "Thông tin thanh toán: Xử lý qua Apple Pay hoặc Google Pay, KosMeet không lưu số thẻ",
+        "Giấy tờ tùy thân: Nếu chọn xác thực danh tính, có thể cung cấp giấy tờ do chính phủ cấp (chỉ dùng để xác minh, xóa ảnh gốc sau khi xác minh)"
+      ],
+      "subtitle2": "Thông tin từ dịch vụ bên thứ ba",
+      "description2": "Nếu đăng nhập bằng Google, chúng tôi nhận:",
+      "items2": [
+        "Tên, địa chỉ email, ảnh hồ sơ Google",
+        "Chỉ truy cập thông tin bạn ủy quyền qua Google"
+      ],
+      "subtitle3": "Thông tin tự động thu thập",
+      "description3": "Khi sử dụng KosMeet, thông tin tự động thu thập:",
+      "items3": [
+        "Thông tin thiết bị: Mẫu thiết bị, hệ điều hành, mã định danh duy nhất, ID quảng cáo, địa chỉ IP",
+        "Thông tin vị trí: Nếu cho phép, dùng để tăng độ chính xác ghép đôi (có thể tắt vị trí chính xác bất cứ lúc nào trong cài đặt)",
+        "Thông tin sử dụng: Hồ sơ đã xem, tình trạng ghép đôi, tương tác, thời gian sử dụng",
+        "Dữ liệu nhật ký: Thời gian truy cập, nhật ký lỗi, lỗi, sự kiện hệ thống",
+        "Nội dung giao tiếp: Tin nhắn trong nền tảng được bảo vệ mã hóa trong quá trình truyền tải (SSL/TLS). Để duy trì an toàn cộng đồng và ngăn chặn lừa đảo, chỉ khi nhận được báo cáo hoặc yêu cầu pháp lý, người có thẩm quyền mới xem xét theo nguyên tắc tối thiểu cần thiết."
+      ],
+      "subtitle4": "Thông tin khác",
+      "description4": "Thông tin khác có thể thu thập:",
+      "items4": [
+        "Báo cáo về bạn do người dùng khác gửi (không công khai thông tin cá nhân của người báo cáo)",
+        "Phản hồi khảo sát và nghiên cứu",
+        "Email hoặc thông tin liên hệ dùng để mời bạn bè tham gia KosMeet"
       ]
     },
     "section2": {
-      "title": "2. Cách chúng tôi sử dụng thông tin",
-      "description": "Chúng tôi sử dụng thông tin thu thập được để:",
+      "title": "2. Cách sử dụng thông tin",
+      "description": "Chúng tôi sử dụng thông tin theo mục đích và cơ sở pháp lý sau:",
       "items": [
-        "Cung cấp và duy trì dịch vụ của chúng tôi",
-        "Ghép đôi bạn với đối tác tương thích",
-        "Phân tích độ tương thích Bát Tự và MBTI"
+        "Cung cấp dịch vụ: Tạo tài khoản, hỗ trợ ghép đôi, kích hoạt tính năng chat (Cơ sở pháp lý: Thực hiện hợp đồng)",
+        "Phân tích cá nhân hóa: Phân tích hợp tuổi (Cơ sở pháp lý: Đồng ý rõ ràng)",
+        "Cải thiện dịch vụ: Phân tích xu hướng, mô hình hành vi, tối ưu hóa sản phẩm (Cơ sở pháp lý: Lợi ích hợp pháp)",
+        "Hỗ trợ khách hàng: Xử lý yêu cầu và hỗ trợ (Cơ sở pháp lý: Thực hiện hợp đồng)",
+        "An toàn và bảo mật: Phát hiện lừa đảo, hành vi gian lận, xác minh danh tính (Cơ sở pháp lý: Lợi ích hợp pháp/nghĩa vụ pháp lý)",
+        "Thông báo cần thiết: Cập nhật tài khoản và thông báo bảo mật (Cơ sở pháp lý: Thực hiện hợp đồng)",
+        "Marketing: Gửi thông tin khuyến mãi sau khi có đồng ý (Cơ sở pháp lý: Đồng ý)",
+        "Yêu cầu pháp lý: Tuân thủ pháp luật, quy định, yêu cầu của chính phủ (Cơ sở pháp lý: Nghĩa vụ pháp lý)"
       ]
     },
     "section3": {
-      "title": "3. Liên hệ với chúng tôi",
-      "description": "Nếu bạn có bất kỳ câu hỏi nào về Chính sách bảo mật này, vui lòng liên hệ: hoshimeet{'@'}gmail.com"
+      "title": "3. Cách chia sẻ thông tin",
+      "description": "Chúng tôi không bán thông tin cá nhân của bạn. Có thể chia sẻ trong các trường hợp sau:",
+      "items": [
+        "Với người dùng khác: Thông tin hồ sơ và thông tin hợp tuổi",
+        "Quy trình báo cáo: Có thể thông báo 'đã xử lý' cho người báo cáo nhưng không công khai thông tin cá nhân hoặc chi tiết xử lý của bạn",
+        "Nhà cung cấp dịch vụ: Firebase (xác thực, cơ sở dữ liệu, phân tích), Apple/Google (xử lý thanh toán)",
+        "Yêu cầu pháp lý: Điều tra hoạt động bất hợp pháp, đáp ứng thủ tục pháp lý, bảo vệ an toàn người dùng",
+        "Giao dịch kinh doanh: Sáp nhập, mua lại, chuyển nhượng tài sản, v.v."
+      ]
     },
-    "lastUpdated": "Cập nhật lần cuối: Ngày 26 tháng 11 năm 2024"
+    "section4": {
+      "title": "4. Cookie và công nghệ theo dõi",
+      "description": "Chúng tôi sử dụng cookie và công nghệ tương tự để cải thiện dịch vụ:",
+      "items": [
+        "Cookie cần thiết: Trạng thái đăng nhập và chức năng cơ bản",
+        "Cookie phân tích: Hiểu tình hình sử dụng để cải thiện dịch vụ",
+        "Cookie chức năng: Cá nhân hóa trải nghiệm người dùng",
+        "Cookie bên thứ ba: Firebase v.v. cho phân tích và chẩn đoán"
+      ],
+      "choices": "Bạn có thể quản lý cookie trong cài đặt trình duyệt hoặc thiết bị. Tắt cookie có thể ảnh hưởng đến một số chức năng.",
+      "doNotTrack": "Không phản hồi tín hiệu 'Không theo dõi' của trình duyệt do chưa có tiêu chuẩn thống nhất."
+    },
+    "section5": {
+      "title": "5. Lưu trữ và bảo mật dữ liệu",
+      "description": "Dữ liệu được lưu trữ trên máy chủ bảo mật do Firebase (Google Cloud) cung cấp. Có thể đặt tại Mỹ, Singapore hoặc khu vực khác (tùy theo cấu hình vùng Firebase). Chúng tôi thực hiện các biện pháp bảo mật sau:",
+      "items": [
+        "Mã hóa dữ liệu trong quá trình truyền tải (Transit) và lưu trữ (Rest)",
+        "Xác thực Firebase Auth",
+        "Quản lý quyền truy cập",
+        "Phân tích bảo mật định kỳ"
+      ],
+      "disclaimer": "Mặc dù áp dụng các biện pháp bảo mật, không thể đảm bảo 100% an toàn khi truyền tải qua Internet."
+    },
+    "section6": {
+      "title": "6. Lưu giữ dữ liệu",
+      "description": "Chúng tôi lưu giữ dữ liệu trong thời gian tài khoản hoạt động.",
+      "inactive": "Nếu tài khoản không sử dụng trong 1 năm, chúng tôi có thể đóng tài khoản và bắt đầu quy trình xóa.",
+      "retention": "Thời gian lưu giữ dữ liệu sau khi đóng tài khoản:",
+      "items": [
+        "Dữ liệu cá nhân: 90 ngày (để xử lý báo cáo và điều tra rủi ro)",
+        "Dữ liệu giao dịch: 10 năm (yêu cầu quy định)",
+        "Hồ sơ hỗ trợ khách hàng: 6 năm",
+        "Hồ sơ đồng ý: 5 năm",
+        "Nhật ký truy cập: 1 năm"
+      ],
+      "banned": "Nếu tài khoản bị đình chỉ do vi phạm, chúng tôi lưu giữ dữ liệu cần thiết để ngăn đăng ký lại và duy trì an toàn cộng đồng."
+    },
+    "section7": {
+      "title": "7. Quyền và lựa chọn của bạn",
+      "description": "Tùy theo luật pháp tại khu vực cư trú, bạn có các quyền sau:",
+      "items": [
+        "Truy cập dữ liệu cá nhân",
+        "Sửa dữ liệu không chính xác",
+        "Xóa tài khoản và dữ liệu",
+        "Rút lại đồng ý (ví dụ: phân tích hợp tuổi)",
+        "Hạn chế hoặc phản đối các hoạt động xử lý cụ thể",
+        "Tắt dịch vụ vị trí",
+        "Tắt thông báo đẩy"
+      ],
+      "portabilityNote": "Bạn có quyền yêu cầu bản sao dữ liệu cá nhân. Để thực hiện quyền này, vui lòng liên hệ qua email. Sau khi xác minh danh tính, chúng tôi sẽ cung cấp bản sao dữ liệu trong nền tảng.",
+      "exercise": "Để thực hiện quyền, liên hệ: hoshimeet{'@'}gmail.com",
+      "appeal": "Nếu yêu cầu bị từ chối, bạn có thể khiếu nại bằng cách đặt tiêu đề 'Khiếu nại yêu cầu dữ liệu cá nhân'.",
+      "complaints": "Cư dân Anh/EU có thể nộp đơn khiếu nại lên cơ quan bảo vệ dữ liệu địa phương."
+    },
+    "section8": {
+      "title": "8. Giới hạn độ tuổi",
+      "description": "KosMeet chỉ dành cho người dùng từ 18 tuổi trở lên. Nếu phát hiện người dùng nghi ngờ là trẻ vị thành niên, vui lòng sử dụng chức năng báo cáo."
+    },
+    "section9": {
+      "title": "9. Chuyển dữ liệu quốc tế",
+      "description": "Dữ liệu có thể được chuyển đến Đài Loan hoặc quốc gia khác nơi máy chủ Firebase đặt. Việc sử dụng KosMeet đồng nghĩa với việc bạn đồng ý với việc chuyển dữ liệu xuyên biên giới này. Khi luật pháp yêu cầu, chúng tôi sử dụng các biện pháp bảo vệ thích hợp."
+    },
+    "section10": {
+      "title": "10. Quyền theo khu vực",
+      "california": "Cư dân California (CCPA/CPRA): Bạn có quyền tra cứu, truy cập, xóa, sửa dữ liệu. KosMeet không bán thông tin cá nhân.",
+      "uk": "Cư dân Anh (UK GDPR): Bạn có các quyền được nêu trong Điều 7 và có thể nộp đơn khiếu nại lên ICO.",
+      "other": "Cư dân Canada, Nhật Bản, Hàn Quốc, Singapore, Đài Loan cũng có quyền theo luật bảo vệ dữ liệu của từng nước."
+    },
+    "section11": {
+      "title": "11. Chính sách Cookie",
+      "description": "Để biết chi tiết về cách sử dụng cookie, vui lòng tham khảo Điều 4."
+    },
+    "section12": {
+      "title": "12. Liên kết bên thứ ba",
+      "description": "KosMeet có thể chứa liên kết đến trang web bên thứ ba. Chúng tôi không chịu trách nhiệm về phương thức bảo mật thông tin của các trang đó. Vui lòng kiểm tra chính sách bảo mật của từng trang web."
+    },
+    "section13": {
+      "title": "13. Thông tin trẻ em",
+      "description": "Chúng tôi không cố ý thu thập thông tin từ người dưới 18 tuổi. Nếu bạn nghĩ trẻ em đã cung cấp thông tin, vui lòng liên hệ ngay."
+    },
+    "section14": {
+      "title": "14. Thay đổi chính sách này",
+      "description": "Chúng tôi có thể cập nhật chính sách này. Nếu có thay đổi quan trọng, chúng tôi sẽ thông báo qua ứng dụng hoặc email."
+    },
+    "section15": {
+      "title": "15. Liên hệ",
+      "description": "Nếu có câu hỏi, vui lòng liên hệ:",
+      "company": "KosMeet",
+      "location": "Đài Loan",
+      "email": "hoshimeet{'@'}gmail.com"
+    }
+  },
+  "termsOfService": {
+    "title": "Điều khoản Dịch vụ",
+    "lastUpdated": "Cập nhật lần cuối: 28 tháng 11 năm 2024",
+    "intro": "Chào mừng đến với KosMeet! Điều khoản Dịch vụ này ('Điều khoản') tạo thành hợp đồng ràng buộc pháp lý giữa bạn và KosMeet ('chúng tôi'). Việc sử dụng KosMeet đồng nghĩa với việc bạn đồng ý với các điều khoản này. Nếu không đồng ý, vui lòng không sử dụng dịch vụ.",
+    "section1": {
+      "title": "1. Mô tả dịch vụ",
+      "description": "KosMeet là ứng dụng ghép đôi giúp người dùng tạo kết nối ý nghĩa thông qua:",
+      "items": [
+        "Phân tích hợp tuổi dựa trên thông tin ngày sinh",
+        "Ghép đôi theo loại tính cách MBTI",
+        "Tính năng chat thời gian thực",
+        "Khám phá hồ sơ và đề xuất ghép đôi"
+      ],
+      "note": "KosMeet chỉ cung cấp đề xuất ghép đôi và nền tảng xã hội, không đảm bảo kết quả cụ thể bao gồm tìm bạn đời hoặc hình thành mối quan hệ."
+    },
+    "section2": {
+      "title": "2. Điều kiện sử dụng",
+      "description": "Để sử dụng KosMeet, bạn phải đáp ứng các điều kiện sau:",
+      "items": [
+        "Từ 18 tuổi trở lên",
+        "Có năng lực pháp lý để ký kết hợp đồng ràng buộc",
+        "Chưa từng bị cấm sử dụng dịch vụ của chúng tôi",
+        "Chưa bị kết án về tội phạm tình dục hoặc bạo lực",
+        "Tuân thủ mọi luật pháp liên quan"
+      ],
+      "violation": "Nếu không đáp ứng điều kiện trên, vui lòng không sử dụng KosMeet. Chúng tôi có quyền xác minh điều kiện của bạn bất cứ lúc nào."
+    },
+    "section3": {
+      "title": "3. Đăng ký tài khoản và bảo mật",
+      "description": "Về tài khoản:",
+      "items": [
+        "Phải cung cấp thông tin chính xác, đầy đủ và mới nhất",
+        "Chịu trách nhiệm bảo mật mật khẩu",
+        "Chịu trách nhiệm về mọi hoạt động từ tài khoản",
+        "Thông báo ngay nếu phát hiện sử dụng trái phép",
+        "Không được chuyển nhượng hoặc bán tài khoản",
+        "Mỗi người chỉ được có một tài khoản"
+      ]
+    },
+    "section4": {
+      "title": "4. Quy tắc ứng xử người dùng",
+      "subtitle1": "Quy tắc cần tuân thủ",
+      "description1": "Khi sử dụng KosMeet, bạn đồng ý:",
+      "items1": [
+        "Tôn trọng người dùng khác",
+        "Chỉ tải lên ảnh thật của mình",
+        "Cung cấp thông tin cá nhân trung thực và chính xác",
+        "Tương tác với người khác bằng thiện chí và chân thành"
+      ],
+      "subtitle2": "Hành vi cấm",
+      "description2": "Các hành vi sau bị cấm:",
+      "items2": [
+        "Mạo danh người khác hoặc tạo danh tính giả",
+        "Tải lên ảnh không phải của bản thân hoặc đánh cắp hình ảnh người khác",
+        "Gửi tin nhắn quấy rối, đe dọa, lăng mạ, phân biệt đối xử",
+        "Gửi nội dung khiêu dâm, tục tĩu hoặc không phù hợp",
+        "Lừa đảo, gian dối hoặc yêu cầu tiền bạc",
+        "Hoạt động thương mại, quảng cáo, bán hàng đa cấp",
+        "Phát tán phần mềm độc hại, virus, mã có hại",
+        "Cố gắng hack, crack hoặc gây rối dịch vụ",
+        "Thu thập hoặc lấy thông tin cá nhân người dùng khác",
+        "Sử dụng công cụ tự động, bot, crawler",
+        "Vượt qua biện pháp bảo mật hoặc kiểm soát truy cập",
+        "Tham gia hoạt động bất hợp pháp"
+      ],
+      "enforcement": "Chúng tôi có quyền thực hiện các biện pháp bao gồm cảnh cáo, đình chỉ, cấm vĩnh viễn đối với người dùng vi phạm các điều khoản này."
+    },
+    "section5": {
+      "title": "5. Nội dung người dùng",
+      "subtitle1": "Nội dung của bạn",
+      "description1": "Bạn sở hữu mọi nội dung tải lên KosMeet (bao gồm ảnh, văn bản, tin nhắn). Tuy nhiên, bạn cấp cho chúng tôi:",
+      "items1": [
+        "Giấy phép không độc quyền, miễn phí bản quyền, toàn cầu, có thể cấp phép lại",
+        "Quyền sử dụng, sao chép, sửa đổi, hiển thị nội dung để cung cấp dịch vụ",
+        "Giấy phép này kết thúc khi xóa nội dung hoặc tài khoản (nhưng có thể còn lại trong bản sao lưu hoặc bản sao do người dùng khác tải xuống)"
+      ],
+      "subtitle2": "Tiêu chuẩn nội dung",
+      "description2": "Nội dung bạn tải lên bảo đảm:",
+      "items2": [
+        "Không vi phạm quyền sở hữu trí tuệ của bên thứ ba",
+        "Không chứa nội dung bất hợp pháp, có hại hoặc không phù hợp",
+        "Chính xác và không gây hiểu lầm",
+        "Tuân thủ mọi luật pháp liên quan"
+      ],
+      "removal": "Chúng tôi có quyền xóa nội dung vi phạm điều khoản này hoặc bị coi là không phù hợp mà không cần thông báo trước."
+    },
+    "section6": {
+      "title": "6. Dịch vụ trả phí và đăng ký",
+      "subtitle1": "Tính năng trả phí",
+      "description1": "KosMeet cung cấp tính năng miễn phí và trả phí. Dịch vụ trả phí bao gồm:",
+      "items1": [
+        "Tính năng ghép đôi nâng cao",
+        "Lượt vuốt không giới hạn",
+        "Xem ai đã thích",
+        "Các tính năng cao cấp khác"
+      ],
+      "subtitle2": "Điều khoản thanh toán",
+      "description2": "Về dịch vụ trả phí:",
+      "items2": [
+        "Giá được hiển thị tại thời điểm mua",
+        "Thanh toán được xử lý qua Apple App Store hoặc Google Play Store",
+        "Đăng ký tự động gia hạn nếu không hủy trước ít nhất 24 giờ trước khi kết thúc kỳ hiện tại",
+        "Bạn có thể quản lý hoặc hủy đăng ký trong cài đặt tài khoản thiết bị"
+      ],
+      "subtitle3": "Chính sách hoàn tiền",
+      "description3": "Hoàn tiền được xử lý theo chính sách của Apple App Store hoặc Google Play Store. Thông thường:",
+      "items3": [
+        "Mua nội dung kỹ thuật số thường không được hoàn tiền",
+        "Trong trường hợp đặc biệt, vui lòng liên hệ trực tiếp với hỗ trợ Apple hoặc Google",
+        "Chúng tôi không xử lý trực tiếp yêu cầu hoàn tiền"
+      ]
+    },
+    "section7": {
+      "title": "7. Tuyên bố miễn trừ trách nhiệm phân tích hợp tuổi",
+      "description": "Về tính năng phân tích hợp tuổi của KosMeet:",
+      "items": [
+        "Phân tích hợp tuổi chỉ được cung cấp cho mục đích giải trí và tham khảo",
+        "Kết quả phân tích không cấu thành lời khuyên chuyên nghiệp (bao gồm tư vấn tâm lý, hôn nhân hoặc mối quan hệ)",
+        "Không đảm bảo độ chính xác của phân tích hoặc kết quả cụ thể",
+        "Đừng đưa ra quyết định quan trọng trong cuộc sống chỉ dựa trên kết quả phân tích",
+        "Mọi mối quan hệ phụ thuộc vào nhiều yếu tố vượt xa khả năng dự đoán của hệ thống phân tích"
+      ],
+      "acknowledgment": "Việc sử dụng tính năng này đồng nghĩa với việc bạn hiểu và chấp nhận những giới hạn này."
+    },
+    "section8": {
+      "title": "8. An toàn và rủi ro",
+      "subtitle1": "Tương tác trực tuyến",
+      "description1": "Lưu ý:",
+      "items1": [
+        "Không thể đảm bảo danh tính hoặc ý định của người dùng khác",
+        "Hãy cẩn thận khi chia sẻ thông tin cá nhân",
+        "Chọn nơi công cộng cho buổi gặp đầu tiên",
+        "Thông báo kế hoạch hẹn hò cho bạn bè hoặc gia đình",
+        "Tin vào trực giác, rời đi nếu cảm thấy không thoải mái"
+      ],
+      "subtitle2": "Cơ chế báo cáo",
+      "description2": "Nếu phát hiện các tình huống sau, vui lòng sử dụng ngay chức năng báo cáo trong ứng dụng:",
+      "items2": [
+        "Hành vi đáng ngờ hoặc lừa đảo",
+        "Quấy rối hoặc đe dọa",
+        "Nội dung không phù hợp",
+        "Người dùng vị thành niên",
+        "Mọi hành vi vi phạm điều khoản này"
+      ],
+      "disclaimer": "KosMeet không chịu trách nhiệm về tương tác giữa người dùng, bao gồm mọi sự kiện xảy ra trực tuyến hoặc ngoại tuyến."
+    },
+    "section9": {
+      "title": "9. Quyền sở hữu trí tuệ",
+      "description": "Về quyền sở hữu trí tuệ:",
+      "items": [
+        "Tên, logo, thiết kế, tính năng, nội dung của KosMeet là tài sản của chúng tôi hoặc người cấp phép",
+        "Bạn không được sao chép, sửa đổi, phân phối hoặc sử dụng sở hữu trí tuệ của chúng tôi theo bất kỳ cách nào khác",
+        "Việc sử dụng dịch vụ này không cấu thành chuyển nhượng quyền sở hữu trí tuệ",
+        "Nếu bạn cho rằng quyền sở hữu trí tuệ bị vi phạm, vui lòng liên hệ"
+      ]
+    },
+    "section10": {
+      "title": "10. Tuyên bố miễn trừ trách nhiệm",
+      "description": "Trong phạm vi tối đa mà pháp luật cho phép:",
+      "items": [
+        "Dịch vụ được cung cấp trên cơ sở 'nguyên trạng' và 'sẵn có'",
+        "Không đưa ra bảo đảm rõ ràng hoặc ngụ ý",
+        "Không đảm bảo dịch vụ không bị gián đoạn, không có lỗi, an toàn",
+        "Không chịu trách nhiệm về hành vi của người dùng khác",
+        "Không chịu trách nhiệm về kết quả ghép đôi hoặc mối quan hệ",
+        "Không chịu trách nhiệm về độ chính xác của phân tích hợp tuổi"
+      ]
+    },
+    "section11": {
+      "title": "11. Giới hạn trách nhiệm",
+      "description": "Trong phạm vi tối đa mà pháp luật cho phép:",
+      "items": [
+        "Không chịu trách nhiệm về thiệt hại gián tiếp, ngẫu nhiên, đặc biệt, trừng phạt hoặc hậu quả",
+        "Tổng trách nhiệm của chúng tôi không vượt quá số tiền bạn đã trả cho chúng tôi trong 12 tháng qua",
+        "Một số khu vực pháp lý không cho phép giới hạn trách nhiệm, do đó các giới hạn trên có thể không áp dụng"
+      ]
+    },
+    "section12": {
+      "title": "12. Bồi thường",
+      "description": "Bạn đồng ý bồi thường và không gây hại cho KosMeet, các công ty liên kết, giám đốc, nhân viên về mọi khiếu nại, tổn thất hoặc chi phí (bao gồm phí luật sư) phát sinh từ:",
+      "items": [
+        "Vi phạm điều khoản này",
+        "Sử dụng dịch vụ",
+        "Nội dung bạn tải lên",
+        "Tương tác với người dùng khác",
+        "Vi phạm pháp luật hoặc quyền của bên thứ ba"
+      ]
+    },
+    "section13": {
+      "title": "13. Chấm dứt tài khoản",
+      "subtitle1": "Quyền chấm dứt của bạn",
+      "description1": "Bạn có thể xóa tài khoản bất cứ lúc nào trong cài đặt ứng dụng.",
+      "subtitle2": "Quyền chấm dứt của chúng tôi",
+      "description2": "Chúng tôi có thể đình chỉ hoặc chấm dứt tài khoản trong các trường hợp sau:",
+      "items2": [
+        "Vi phạm điều khoản này",
+        "Tham gia hoạt động đáng ngờ hoặc bất hợp pháp",
+        "Hành vi gây nguy hiểm cho người dùng khác",
+        "Yêu cầu pháp lý",
+        "Tài khoản không sử dụng trong 1 năm"
+      ],
+      "effect": "Sau khi chấm dứt tài khoản, bạn sẽ mất quyền truy cập vào tài khoản và nội dung. Một số điều khoản (tuyên bố miễn trừ, giới hạn trách nhiệm, v.v.) vẫn có hiệu lực sau khi chấm dứt."
+    },
+    "section14": {
+      "title": "14. Giải quyết tranh chấp",
+      "description": "Về giải quyết tranh chấp:",
+      "items": [
+        "Điều khoản này chịu sự điều chỉnh của luật pháp Đài Loan",
+        "Trước tiên đồng ý giải quyết tranh chấp một cách thân thiện qua email",
+        "Nếu không giải quyết được, sẽ đưa tranh chấp lên tòa án có thẩm quyền tại Đài Loan",
+        "Đồng ý từ bỏ tham gia kiện tập thể (trong phạm vi pháp luật cho phép)"
+      ]
+    },
+    "section15": {
+      "title": "15. Sửa đổi điều khoản",
+      "description": "Chúng tôi có thể sửa đổi điều khoản này theo thời gian:",
+      "items": [
+        "Thay đổi quan trọng sẽ được thông báo qua ứng dụng hoặc email",
+        "Việc tiếp tục sử dụng dịch vụ đồng nghĩa với việc đồng ý với điều khoản sửa đổi",
+        "Nếu không đồng ý với điều khoản mới, vui lòng ngừng sử dụng dịch vụ và xóa tài khoản"
+      ]
+    },
+    "section16": {
+      "title": "16. Điều khoản chung",
+      "items": [
+        "Thỏa thuận hoàn chỉnh: Điều khoản này cấu thành thỏa thuận hoàn chỉnh giữa bạn và chúng tôi về dịch vụ này",
+        "Tính phân tách: Nếu điều khoản nào bị coi là vô hiệu, các điều khoản còn lại vẫn có hiệu lực",
+        "Từ bỏ quyền: Việc chúng tôi không thực hiện quyền nào không cấu thành việc từ bỏ quyền đó",
+        "Chuyển nhượng: Bạn không thể chuyển nhượng quyền theo điều khoản này; chúng tôi có thể tự do chuyển nhượng",
+        "Bất khả kháng: Không chịu trách nhiệm về sự chậm trễ hoặc thất bại do sự kiện nằm ngoài tầm kiểm soát hợp lý của chúng tôi"
+      ]
+    },
+    "section17": {
+      "title": "17. Liên hệ",
+      "description": "Nếu có câu hỏi về điều khoản này, vui lòng liên hệ:",
+      "company": "KosMeet",
+      "location": "Đài Loan",
+      "email": "hoshimeet{'@'}gmail.com"
+    }
   }
 }
