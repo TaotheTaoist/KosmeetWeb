@@ -69,9 +69,9 @@
             </li>
             <!-- Community Guidelines - coming soon -->
             <li>
-              <span class="text-gray-600 cursor-not-allowed">
-                {{ $t("footer.sections.legal.items.3") }}
-              </span>
+              <router-link to="/terms-of-service" class="hover:text-white">
+                {{ $t("footer.sections.legal.items.1") }}
+              </router-link>
             </li>
           </ul>
         </div>

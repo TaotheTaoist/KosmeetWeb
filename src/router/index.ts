@@ -13,6 +13,11 @@ const router = createRouter({
       name: "privacy-policy",
       component: () => import("../views/PrivacyPolicy.vue"),
     },
+    {
+      path: "/terms-of-service",
+      name: "terms-of-service",
+      component: () => import("../views/TermsOfService.vue"),
+    },
   ],
   scrollBehavior() {
     return { top: 0 };
