@@ -49,29 +49,31 @@
             {{ $t("footer.sections.legal.title") }}
           </h4>
           <ul class="space-y-2 text-sm text-gray-400">
-            <!-- Privacy Policy - working link -->
+            <!-- Privacy Policy -->
             <li>
               <router-link to="/privacy-policy" class="hover:text-white">
                 {{ $t("footer.sections.legal.items.0") }}
               </router-link>
             </li>
-            <!-- Terms of Service - coming soon -->
-            <li>
-              <span class="text-gray-600 cursor-not-allowed">
-                {{ $t("footer.sections.legal.items.1") }}
-              </span>
-            </li>
-            <!-- Cookie Policy - coming soon -->
-            <li>
-              <span class="text-gray-600 cursor-not-allowed">
-                {{ $t("footer.sections.legal.items.2") }}
-              </span>
-            </li>
-            <!-- Community Guidelines - coming soon -->
+            <!-- Terms of Service -->
             <li>
               <router-link to="/terms-of-service" class="hover:text-white">
                 {{ $t("footer.sections.legal.items.1") }}
               </router-link>
+            </li>
+            <!-- Cookie Policy - coming soon -->
+            <li>
+              <span class="text-gray-500 cursor-not-allowed">
+                {{ $t("footer.sections.legal.items.2") }}
+                <span class="text-xs">(即將推出)</span>
+              </span>
+            </li>
+            <!-- Community Guidelines - coming soon -->
+            <li>
+              <span class="text-gray-500 cursor-not-allowed">
+                {{ $t("footer.sections.legal.items.3") }}
+                <span class="text-xs">(即將推出)</span>
+              </span>
             </li>
           </ul>
         </div>
