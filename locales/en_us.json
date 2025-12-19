@@ -100,246 +100,463 @@
     "description": "Get one month of premium membership and exclusive one-on-one consultation"
   },
 
-  
   "termsOfService": {
     "title": "Terms of Service",
-    "lastUpdated": "Last Updated: December 11, 2024",
-    "intro": "Welcome to KosMeet! These Terms of Service ('Terms') constitute a legally binding agreement between you and KosMeet ('we', 'us', 'our'). By using KosMeet, you agree to comply with these Terms. If you do not agree, please do not use our service.",
-    "section1": {
-      "title": "1. Service Description",
-      "description": "KosMeet is a dating and matching app that helps users build meaningful connections through:",
+    "lastUpdated": "Last updated: November 26, 2024",
+    "intro": "Welcome to 星遇 (Hoshimeet), operating as Kosmeet. These Terms of Service ('Terms') govern your access to and use of our dating application and services. By creating an account or using Kosmeet, you agree to be bound by these Terms.",
+
+    "acceptance": {
+      "title": "1. Acceptance of Terms",
+      "description": "By accessing or using Kosmeet, you agree to:",
       "items": [
-        "Compatibility analysis based on traditional Ba Zi (八字) and Zi Wei Dou Shu (紫微斗數) principles",
-        "MBTI personality type matching",
-        "Real-time chat functionality",
-        "Profile browsing and match recommendations"
+        "Be bound by these Terms of Service",
+        "Comply with our Privacy Policy and Community Guidelines",
+        "Be at least 18 years of age",
+        "Provide accurate information during registration",
+        "Use the service in accordance with all applicable laws"
       ],
-      "note": "KosMeet only provides matching suggestions and a social platform. We do not guarantee any specific outcomes, including finding a partner or establishing relationships."
+      "note": "If you do not agree to these Terms, you may not use our service."
     },
-    "section2": {
+
+    "eligibility": {
       "title": "2. Eligibility",
-      "description": "To use KosMeet, you must:",
+      "ageRequirement": "You must be at least 18 years old to use Kosmeet. By creating an account, you represent and warrant that:",
       "items": [
-        "Be at least 18 years old",
-        "Have the legal capacity to enter into binding contracts",
-        "Not have been previously banned from our service",
-        "Not have been convicted of sexual or violent crimes",
-        "Comply with all applicable laws and regulations"
+        "You are at least 18 years of age",
+        "You have the legal capacity to enter into a binding agreement",
+        "You are not prohibited from using the service under the laws of Taiwan or any other applicable jurisdiction",
+        "You have not been previously banned or removed from our service",
+        "You will comply with all applicable local, national, and international laws"
       ],
-      "violation": "If you do not meet the above eligibility requirements, please do not use KosMeet. We reserve the right to verify your eligibility at any time."
+      "verification": "We reserve the right to request identity verification at any time. Failure to provide verification may result in account suspension or termination."
     },
-    "section3": {
+
+    "accountRegistration": {
       "title": "3. Account Registration and Security",
-      "description": "Regarding your account:",
+      "registration": {
+        "subtitle": "Account Creation",
+        "description": "To use Kosmeet, you must create an account by providing:",
+        "items": [
+          "Valid email address or Google account authentication",
+          "Birth data (date, time, and place) for Ba Zi analysis",
+          "Profile information including photos and bio",
+          "MBTI personality type",
+          "Gender and gender preference"
+        ]
+      },
+      "accuracy": {
+        "subtitle": "Accurate Information",
+        "description": "You agree to:",
+        "items": [
+          "Provide accurate, current, and complete information",
+          "Maintain and update your information to keep it accurate",
+          "Provide truthful birth data for accurate Ba Zi compatibility matching",
+          "Not impersonate any person or entity",
+          "Not create multiple accounts"
+        ]
+      },
+      "security": {
+        "subtitle": "Account Security",
+        "description": "You are responsible for:",
+        "items": [
+          "Maintaining the confidentiality of your password",
+          "All activities that occur under your account",
+          "Notifying us immediately of any unauthorized access",
+          "Not sharing your account credentials with others"
+        ],
+        "liability": "You agree that Kosmeet is not liable for any loss or damage arising from unauthorized use of your account."
+      }
+    },
+
+    "birthDataConsent": {
+      "title": "4. Birth Data and Ba Zi Analysis",
+      "purpose": {
+        "subtitle": "Purpose of Collection",
+        "description": "We collect your birth data (date, time, and place) to:",
+        "items": [
+          "Generate your personalized Ba Zi (Eight Characters) chart",
+          "Calculate compatibility scores with other users",
+          "Provide relationship insights based on traditional Chinese fortune-telling",
+          "Enable advanced matching features including Destiny Pattern Search"
+        ]
+      },
+      "consent": {
+        "subtitle": "Explicit Consent",
+        "description": "By providing your birth data, you:",
+        "items": [
+          "Explicitly consent to the processing of this sensitive personal information",
+          "Understand that birth data is used for Ba Zi fortune-telling purposes",
+          "Acknowledge that fortune-telling is for entertainment and guidance purposes only",
+          "Can withdraw consent at any time by deleting your account"
+        ]
+      },
+      "disclaimer": {
+        "subtitle": "Fortune-Telling Disclaimer",
+        "description": "You acknowledge and agree that:",
+        "items": [
+          "Ba Zi analysis is based on traditional Chinese metaphysics and is not scientifically proven",
+          "Compatibility scores are for entertainment and guidance purposes only",
+          "We do not guarantee any specific outcomes in relationships",
+          "You should not make life decisions based solely on Ba Zi analysis",
+          "Fortune-telling results are interpretations and may vary"
+        ]
+      }
+    },
+
+    "userConduct": {
+      "title": "5. User Conduct and Community Guidelines",
+      "prohibited": {
+        "subtitle": "Prohibited Activities",
+        "description": "You agree NOT to:",
+        "items": [
+          "Harass, abuse, threaten, or intimidate other users",
+          "Post or share sexually explicit content, nudity, or pornography",
+          "Use the service for commercial purposes or advertising",
+          "Solicit money or financial information from other users",
+          "Share false, misleading, or fraudulent information",
+          "Post hate speech, discriminatory content, or violent material",
+          "Impersonate others or create fake profiles",
+          "Use automated systems (bots) to interact with the service",
+          "Attempt to access other users' accounts without permission",
+          "Violate any applicable laws or regulations",
+          "Promote or facilitate illegal activities",
+          "Share contact information of others without consent"
+        ]
+      },
+      "respect": {
+        "subtitle": "Respectful Behavior",
+        "description": "You agree to:",
+        "items": [
+          "Treat all users with respect and dignity",
+          "Respect others' boundaries and consent",
+          "Report inappropriate behavior using our reporting feature",
+          "Engage in honest and authentic communication",
+          "Respect the cultural and spiritual aspects of Ba Zi matching"
+        ]
+      },
+      "consequences": "Violation of these guidelines may result in warning, account suspension, or permanent ban."
+    },
+
+    "content": {
+      "title": "6. User Content",
+      "ownership": {
+        "subtitle": "Your Content",
+        "description": "You retain ownership of content you post (photos, messages, bio). By posting content, you grant Kosmeet:",
+        "items": [
+          "A worldwide, non-exclusive, royalty-free license to use, display, and distribute your content",
+          "The right to use your content to provide and promote our services",
+          "The right to modify or adapt your content for technical or operational purposes"
+        ],
+        "termination": "This license ends when you delete your content or account, except where content has been shared with other users."
+      },
+      "responsibility": {
+        "subtitle": "Content Responsibility",
+        "description": "You are solely responsible for:",
+        "items": [
+          "All content you post or share on Kosmeet",
+          "Ensuring you have rights to share photos and other content",
+          "Ensuring content does not violate third-party rights",
+          "The accuracy of information in your profile"
+        ]
+      },
+      "moderation": {
+        "subtitle": "Content Moderation",
+        "description": "We reserve the right to:",
+        "items": [
+          "Review, monitor, and remove any content at our discretion",
+          "Remove content that violates these Terms or Community Guidelines",
+          "Remove content reported by other users",
+          "Suspend or terminate accounts posting prohibited content"
+        ],
+        "noObligation": "We have no obligation to monitor content but may do so for safety and compliance purposes."
+      }
+    },
+
+    "subscriptionAndPayment": {
+      "title": "7. Subscription and Payment",
+      "freeTier": {
+        "subtitle": "Free Features",
+        "description": "Kosmeet offers basic features for free, including:",
+        "items": [
+          "Account creation and basic profile",
+          "Basic Ba Zi chart generation",
+          "Limited daily matches",
+          "Basic compatibility viewing"
+        ]
+      },
+      "premium": {
+        "subtitle": "Premium Membership",
+        "description": "Premium features include:",
+        "items": [
+          "Unlimited matches and compatibility viewing",
+          "Advanced Destiny Pattern Search",
+          "Detailed relationship compatibility insights",
+          "Priority customer support",
+          "Ad-free experience",
+          "Additional profile customization options"
+        ]
+      },
+      "payment": {
+        "subtitle": "Payment Terms",
+        "description": "By purchasing a premium subscription:",
+        "items": [
+          "Payments are processed through Apple Pay or Google Pay",
+          "Subscriptions auto-renew unless cancelled before renewal date",
+          "You authorize us to charge your payment method for recurring fees",
+          "All fees are non-refundable except as required by law",
+          "We may change pricing with 30 days' notice to existing subscribers"
+        ]
+      },
+      "cancellation": {
+        "subtitle": "Cancellation",
+        "description": "You may cancel your subscription at any time:",
+        "items": [
+          "Cancellation takes effect at the end of the current billing period",
+          "You will retain premium access until the end of the paid period",
+          "No refunds for partial subscription periods",
+          "Cancel through your Apple App Store or Google Play Store account settings"
+        ]
+      }
+    },
+
+    "intellectualProperty": {
+      "title": "8. Intellectual Property Rights",
+      "ownership": {
+        "subtitle": "Our Property",
+        "description": "Kosmeet and all related intellectual property (including but not limited to):",
+        "items": [
+          "The Kosmeet name, logo, and branding",
+          "Ba Zi matching algorithms and calculations",
+          "Software, code, and application design",
+          "Website and app content, text, and graphics",
+          "MBTI integration and matching system"
+        ],
+        "rights": "are owned by 星遇企業社 (Hoshimeet Enterprise) and protected by copyright, trademark, and other intellectual property laws."
+      },
+      "restrictions": {
+        "subtitle": "Use Restrictions",
+        "description": "You may NOT:",
+        "items": [
+          "Copy, modify, or distribute our software or content",
+          "Reverse engineer or attempt to extract source code",
+          "Use our branding without written permission",
+          "Create derivative works based on our service",
+          "Remove or alter copyright notices or branding"
+        ]
+      },
+      "license": {
+        "subtitle": "License to Use",
+        "description": "We grant you a limited, non-exclusive, non-transferable license to access and use Kosmeet for personal, non-commercial purposes in accordance with these Terms."
+      }
+    },
+
+    "thirdPartyServices": {
+      "title": "9. Third-Party Services",
+      "integration": {
+        "subtitle": "Third-Party Integration",
+        "description": "Kosmeet integrates with third-party services:",
+        "items": [
+          "Google Sign-In for authentication",
+          "Firebase for backend services",
+          "Apple Pay and Google Pay for payments",
+          "Analytics and performance monitoring tools"
+        ]
+      },
+      "terms": {
+        "subtitle": "Third-Party Terms",
+        "description": "Your use of third-party services is subject to their respective terms and privacy policies. We are not responsible for:",
+        "items": [
+          "Third-party service availability or functionality",
+          "Third-party privacy practices or data handling",
+          "Any issues arising from third-party services",
+          "Changes to third-party terms or services"
+        ]
+      }
+    },
+
+    "disclaimers": {
+      "title": "10. Disclaimers and Limitation of Liability",
+      "serviceDisclaimer": {
+        "subtitle": "Service 'As Is'",
+        "description": "KOSMEET IS PROVIDED 'AS IS' AND 'AS AVAILABLE' WITHOUT WARRANTIES OF ANY KIND. WE DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING:",
+        "items": [
+          "Merchantability and fitness for a particular purpose",
+          "Accuracy, reliability, or completeness of Ba Zi analysis",
+          "Uninterrupted or error-free service",
+          "Security of data transmission",
+          "Results from using the service"
+        ]
+      },
+      "noGuarantee": {
+        "subtitle": "No Relationship Guarantee",
+        "description": "We explicitly disclaim any guarantee or warranty regarding:",
+        "items": [
+          "Finding a compatible partner or successful relationship",
+          "Accuracy of compatibility scores or predictions",
+          "Behavior or authenticity of other users",
+          "Safety of in-person meetings with other users"
+        ],
+        "warning": "YOU ARE SOLELY RESPONSIBLE FOR YOUR INTERACTIONS WITH OTHER USERS. ALWAYS EXERCISE CAUTION WHEN MEETING PEOPLE IN PERSON."
+      },
+      "limitation": {
+        "subtitle": "Limitation of Liability",
+        "description": "TO THE MAXIMUM EXTENT PERMITTED BY LAW, KOSMEET AND ITS AFFILIATES SHALL NOT BE LIABLE FOR:",
+        "items": [
+          "Indirect, incidental, consequential, or punitive damages",
+          "Loss of profits, data, or business opportunities",
+          "Damages arising from user content or conduct",
+          "Damages from unauthorized access to your account",
+          "Any damages exceeding the amount you paid in the past 12 months"
+        ]
+      },
+      "userRisk": {
+        "subtitle": "User Assumption of Risk",
+        "description": "You acknowledge and agree that:",
+        "items": [
+          "Dating and meeting strangers carries inherent risks",
+          "You are solely responsible for your safety",
+          "We do not conduct background checks on users",
+          "Identity verification does not guarantee user authenticity or safety",
+          "You should follow safety guidelines when meeting users in person"
+        ]
+      }
+    },
+
+    "indemnification": {
+      "title": "11. Indemnification",
+      "description": "You agree to indemnify, defend, and hold harmless Kosmeet, 星遇企業社, and our affiliates, officers, directors, employees, and agents from any claims, damages, losses, liabilities, and expenses (including legal fees) arising from:",
       "items": [
-        "You must provide accurate, complete, and current information",
-        "You are responsible for maintaining the confidentiality of your account credentials",
-        "You are responsible for all activities under your account",
-        "Notify us immediately if you discover unauthorized use",
-        "You may not transfer or sell your account to others",
-        "Each person may only have one account"
-      ]
-    },
-    "section4": {
-      "title": "4. User Conduct Guidelines",
-      "subtitle1": "You Agree to Follow These Rules",
-      "description1": "When using KosMeet, you agree to:",
-      "items1": [
-        "Respect other users",
-        "Only upload your own authentic photos",
-        "Provide truthful and accurate personal information",
-        "Interact with others in good faith and sincerity"
-      ],
-      "subtitle2": "Prohibited Behaviors",
-      "description2": "You must not:",
-      "items2": [
-        "Impersonate others or create fake identities",
-        "Upload photos that are not of yourself or steal others' images",
-        "Send harassing, threatening, abusive, or discriminatory messages",
-        "Send pornographic, obscene, or inappropriate content",
-        "Engage in scams, fraud, or money solicitation",
-        "Solicit commercial activities, advertising, or pyramid schemes",
-        "Distribute malware, viruses, or harmful code",
-        "Attempt to hack, crack, or interfere with the service",
-        "Collect or scrape other users' personal information",
-        "Use automated tools, bots, or crawlers",
-        "Circumvent any security or access control measures",
-        "Engage in any illegal activities"
-      ],
-      "enforcement": "We reserve the right to take action against users who violate these Terms, including warnings, suspension, or permanent termination."
-    },
-    "section5": {
-      "title": "5. User Content",
-      "subtitle1": "Your Content",
-      "description1": "You retain ownership of all content you upload to KosMeet (including photos, text, messages). However, you grant us:",
-      "items1": [
-        "A non-exclusive, royalty-free, worldwide, sublicensable license",
-        "To use, copy, modify, and display your content to provide services",
-        "This license terminates when you delete content or your account (but may persist in backups or copies downloaded by other users)"
-      ],
-      "subtitle2": "Content Standards",
-      "description2": "You warrant that content you upload:",
-      "items2": [
-        "Does not infringe any third party's intellectual property rights",
-        "Does not contain illegal, harmful, or inappropriate content",
-        "Is accurate and not misleading",
-        "Complies with all applicable laws"
-      ],
-      "removal": "We reserve the right to remove any content we deem violates these Terms or is inappropriate, without prior notice."
-    },
-    "section6": {
-      "title": "6. Paid Services and Subscriptions",
-      "subtitle1": "Paid Features",
-      "description1": "KosMeet offers free and paid features. Paid services include:",
-      "items1": [
-        "Advanced matching features",
-        "Unlimited compatibility analyses",
-        "See who likes you",
-        "Other premium features"
-      ],
-      "subtitle2": "Payment Terms",
-      "description2": "Regarding paid services:",
-      "items2": [
-        "Prices are as displayed at time of purchase",
-        "Payments are processed through Apple App Store or Google Play Store",
-        "Subscriptions auto-renew unless you cancel at least 24 hours before the current period ends",
-        "You can manage or cancel subscriptions in your device's account settings"
-      ],
-      "subtitle3": "Refund Policy",
-      "description3": "All purchases are processed through Apple/Google and subject to their refund policies. KosMeet does not process refunds directly.",
-      "items3": [
-        "To request a refund for iOS purchases: https://support.apple.com/en-us/HT204084",
-        "To request a refund for Android purchases: https://support.google.com/googleplay/answer/2479637",
-        "If a purchase is refunded, access to purchased features/credits will be automatically revoked"
-      ],
-      "refundAbuse": "Accounts with repeated refund patterns may be flagged and restricted from making future purchases."
-    },
-    "section7": {
-      "title": "7. Compatibility Analysis Disclaimer",
-      "description": "Regarding KosMeet's compatibility analysis feature:",
-      "items": [
-        "Compatibility analysis based on Ba Zi and Zi Wei Dou Shu is for cultural reference and entertainment purposes only",
-        "Analysis results do not constitute professional advice (including but not limited to psychological, marriage, or relationship counseling)",
-        "We do not guarantee the accuracy of analysis or any specific outcomes",
-        "You should not rely solely on analysis results for major life decisions",
-        "Every relationship depends on many factors far beyond what any analysis system can predict"
-      ],
-      "acknowledgment": "By using this feature, you understand and accept these limitations."
-    },
-    "section8": {
-      "title": "8. Safety and Risks",
-      "subtitle1": "Online Interactions",
-      "description1": "Please note:",
-      "items1": [
-        "We cannot guarantee other users' identities or intentions",
-        "Be cautious when sharing personal information",
-        "Choose public places for first meetings",
-        "Inform friends or family of your dating plans",
-        "Trust your instincts; leave if you feel uncomfortable"
-      ],
-      "subtitle2": "Reporting Mechanism",
-      "description2": "If you encounter any of the following, please use the in-app report feature immediately:",
-      "items2": [
-        "Suspicious or fraudulent behavior",
-        "Harassment or threats",
-        "Inappropriate content",
-        "Underage users",
-        "Any behavior violating these Terms"
-      ],
-      "disclaimer": "KosMeet is not responsible for interactions between users, including any events that occur online or offline."
-    },
-    "section9": {
-      "title": "9. Intellectual Property",
-      "description": "Regarding intellectual property:",
-      "items": [
-        "KosMeet's name, logo, design, features, and content are our or our licensors' property",
-        "You may not copy, modify, distribute, or otherwise use our intellectual property",
-        "Your use of our service does not constitute any transfer of intellectual property rights",
-        "If you believe your intellectual property rights have been infringed, please contact us"
-      ]
-    },
-    "section10": {
-      "title": "10. Disclaimers",
-      "description": "To the maximum extent permitted by law:",
-      "items": [
-        "The service is provided on an 'as is' and 'as available' basis",
-        "We make no express or implied warranties",
-        "We do not guarantee the service will be uninterrupted, error-free, or secure",
-        "We are not responsible for other users' actions",
-        "We are not responsible for any matching or relationship outcomes",
-        "We are not responsible for the accuracy of compatibility analysis"
-      ]
-    },
-    "section11": {
-      "title": "11. Limitation of Liability",
-      "description": "To the maximum extent permitted by law:",
-      "items": [
-        "We are not liable for any indirect, incidental, special, punitive, or consequential damages",
-        "Our total liability shall not exceed the amount you paid us in the past 12 months",
-        "Some jurisdictions do not allow limitation of liability, so the above limitations may not apply to you"
-      ]
-    },
-    "section12": {
-      "title": "12. Indemnification",
-      "description": "You agree to indemnify and hold harmless KosMeet, its affiliates, directors, and employees from any claims, losses, or expenses (including attorney fees) arising from:",
-      "items": [
+        "Your use or misuse of the service",
         "Your violation of these Terms",
-        "Your use of the service",
-        "Content you upload",
+        "Your violation of any third-party rights",
+        "Content you post or share",
         "Your interactions with other users",
-        "Your violation of any laws or third-party rights"
+        "Any false or misleading information you provide"
       ]
     },
-    "section13": {
-      "title": "13. Account Termination",
-      "subtitle1": "Your Right to Terminate",
-      "description1": "You may delete your account at any time through the app settings.",
-      "subtitle2": "Our Right to Terminate",
-      "description2": "We may suspend or terminate your account under the following circumstances:",
-      "items2": [
-        "You violate these Terms",
-        "You engage in suspicious or illegal activities",
-        "Your behavior poses risks to other users",
-        "Legal requirements",
-        "Account inactive for one year"
+
+    "termination": {
+      "title": "12. Termination",
+      "userTermination": {
+        "subtitle": "Termination by You",
+        "description": "You may delete your account at any time through the app settings. Upon deletion:",
+        "items": [
+          "Your profile will be removed from the service",
+          "Your data will be retained according to our Privacy Policy",
+          "You will lose access to all premium features",
+          "No refunds will be issued for unused subscription time"
+        ]
+      },
+      "ourTermination": {
+        "subtitle": "Termination by Us",
+        "description": "We may suspend or terminate your account immediately without notice if:",
+        "items": [
+          "You violate these Terms or Community Guidelines",
+          "You engage in fraudulent or illegal activity",
+          "Your account has been inactive for one year",
+          "We are required to do so by law",
+          "We discontinue the service"
+        ]
+      },
+      "consequences": {
+        "subtitle": "Effect of Termination",
+        "description": "Upon termination:",
+        "items": [
+          "Your right to use the service immediately ends",
+          "We may delete your content (subject to legal retention requirements)",
+          "You remain liable for any outstanding obligations",
+          "Sections regarding liability, indemnification, and disputes survive termination"
+        ]
+      }
+    },
+
+    "disputeResolution": {
+      "title": "13. Dispute Resolution and Governing Law",
+      "governingLaw": {
+        "subtitle": "Governing Law",
+        "description": "These Terms are governed by the laws of Taiwan (Republic of China), without regard to conflict of law principles."
+      },
+      "jurisdiction": {
+        "subtitle": "Jurisdiction",
+        "description": "Any disputes arising from these Terms or your use of Kosmeet shall be subject to the exclusive jurisdiction of the courts in Taiwan."
+      },
+      "negotiation": {
+        "subtitle": "Informal Resolution",
+        "description": "Before filing any legal action, you agree to first contact us at hoshimeet@gmail.com to attempt to resolve the dispute informally. We will attempt to resolve disputes within 60 days."
+      },
+      "arbitration": {
+        "subtitle": "Arbitration (Optional)",
+        "description": "If informal resolution fails, disputes may be resolved through binding arbitration under the rules of the Chinese Arbitration Association, Taipei. The arbitration shall be conducted in Mandarin Chinese in Taipei, Taiwan."
+      }
+    },
+
+    "modifications": {
+      "title": "14. Changes to Terms",
+      "description": "We reserve the right to modify these Terms at any time. If we make material changes:",
+      "items": [
+        "We will notify you through the app or by email at least 30 days before changes take effect",
+        "Continued use of the service after changes constitutes acceptance",
+        "If you do not agree to changes, you may delete your account",
+        "Changes will not apply retroactively"
       ],
-      "effect": "After account termination, you will lose access to your account and content. Certain provisions (such as disclaimers, limitation of liability) survive termination."
+      "responsibility": "It is your responsibility to review these Terms periodically. The 'Last Updated' date at the top indicates when Terms were last revised."
     },
-    "section14": {
-      "title": "14. Dispute Resolution",
-      "description": "Regarding dispute resolution:",
+
+    "generalProvisions": {
+      "title": "15. General Provisions",
+      "severability": {
+        "subtitle": "Severability",
+        "description": "If any provision of these Terms is found to be invalid or unenforceable, the remaining provisions will remain in full force and effect."
+      },
+      "waiver": {
+        "subtitle": "No Waiver",
+        "description": "Our failure to enforce any right or provision of these Terms does not constitute a waiver of such right or provision."
+      },
+      "assignment": {
+        "subtitle": "Assignment",
+        "description": "You may not assign or transfer these Terms or your account. We may assign these Terms to any affiliate or in connection with a merger or acquisition."
+      },
+      "entireAgreement": {
+        "subtitle": "Entire Agreement",
+        "description": "These Terms, together with our Privacy Policy and Community Guidelines, constitute the entire agreement between you and Kosmeet."
+      },
+      "language": {
+        "subtitle": "Language",
+        "description": "These Terms may be translated into other languages. In case of conflict, the English version shall prevail."
+      }
+    },
+
+    "safetyGuidelines": {
+      "title": "16. Safety Guidelines",
+      "description": "For your safety when using Kosmeet:",
       "items": [
-        "These Terms are governed by Taiwan law",
-        "You agree to first attempt to resolve disputes amicably via email",
-        "If amicable resolution fails, disputes shall be submitted to courts with jurisdiction in Taiwan",
-        "You agree to waive participation in class actions (to the extent permitted by law)"
-      ]
+        "Never share financial information or send money to other users",
+        "Meet in public places for first meetings",
+        "Tell a friend or family member about your plans",
+        "Do not share your home address or detailed location",
+        "Trust your instincts - if something feels wrong, it probably is",
+        "Report suspicious behavior immediately",
+        "Do not share sensitive personal information too quickly",
+        "Be cautious of users asking to move conversations off-platform",
+        "Verify identity before meeting in person when possible",
+        "Never feel pressured to meet someone you're uncomfortable with"
+      ],
+      "reporting": "If you experience harassment, threats, or suspicious behavior, use the in-app reporting feature immediately. We take all reports seriously."
     },
-    "section15": {
-      "title": "15. Modifications to Terms",
-      "description": "We may modify these Terms from time to time:",
-      "items": [
-        "Significant changes will be notified via app or email",
-        "Continued use of the service constitutes acceptance of modified Terms",
-        "If you do not agree to new Terms, please stop using the service and delete your account"
-      ]
+
+    "contact": {
+      "title": "17. Contact Information",
+      "description": "If you have any questions about these Terms of Service, please contact us:",
+      "company": "星遇 (Hoshimeet)",
+      "registeredName": "星遇企業社 (Hoshimeet Enterprise)",
+      "location": "Taiwan",
+      "email": "hoshimeet@gmail.com",
+      "support": "For technical support or account issues, please use the in-app support feature or email us at the address above."
     },
-    "section16": {
-      "title": "16. General Terms",
-      "items": [
-        "Entire Agreement: These Terms constitute the entire agreement between you and us regarding the service",
-        "Severability: If any provision is found invalid, the remaining provisions remain effective",
-        "Waiver: Our failure to enforce any right does not constitute waiver of that right",
-        "Assignment: You may not assign rights under these Terms; we may freely assign",
-        "Force Majeure: We are not responsible for delays or failures due to events beyond our reasonable control"
-      ]
-    },
-    "section17": {
-      "title": "17. Contact Us",
-      "description": "If you have any questions about these Terms, please contact:",
-      "company": "KosMeet",
-      "address": "No. 104, Caoya 1st Rd, Cianjhen District, Kaohsiung City, 806, Taiwan",
-      "email": "hoshimeet@gmail.com"
+
+    "acknowledgment": {
+      "title": "Acknowledgment",
+      "description": "BY CREATING AN ACCOUNT OR USING KOSMEET, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD, AND AGREE TO BE BOUND BY THESE TERMS OF SERVICE."
     }
   }
 }
