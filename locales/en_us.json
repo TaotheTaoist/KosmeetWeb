@@ -99,16 +99,171 @@
     "subtitle": "Be an Early Adopter",
     "description": "Get one month of premium membership and exclusive one-on-one consultation"
   },
-
+  "privacyPolicy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last Updated: November 28, 2024",
+    "intro": "This Privacy Policy explains what information KosMeet collects, how we use it, how we share it, and your rights. By using KosMeet, you agree to the practices described in this Policy.",
+    "section1": {
+      "title": "1. Information We Collect",
+      "subtitle1": "Information You Provide",
+      "description1": "When you register or use KosMeet, you may provide:",
+      "items1": [
+        "Account Information: Email, password, nickname or real name",
+        "Profile Information: Photos, bio, gender, gender preference",
+        "Birth Data: Date, time, and place of birth (used for compatibility analysis; this is sensitive data processed only with your voluntary provision and explicit consent)",
+        "Personality Data: MBTI personality type",
+        "Payment Information: Processed through Apple Pay or Google Pay; KosMeet does not store payment card numbers",
+        "Government ID: If you choose to verify your identity, you may provide a government-issued ID (used only for verification; original image deleted after verification)"
+      ],
+      "subtitle2": "Information from Third-Party Services",
+      "description2": "When you sign in via Google, we receive:",
+      "items2": [
+        "Your name, email address, and Google profile photo",
+        "We only access information you authorize through Google"
+      ],
+      "subtitle3": "Information Collected Automatically",
+      "description3": "When you use KosMeet, we automatically collect:",
+      "items3": [
+        "Device Information: Device model, operating system, unique identifiers, advertising ID, IP address",
+        "Location Data: With your permission, used to improve matching accuracy (you can disable precise location in settings anytime)",
+        "Usage Information: Profiles viewed, matches made, interactions, time spent",
+        "Log Data: Access times, crash logs, errors, and system events",
+        "Communications: Messages on our platform are protected by encryption in transit (SSL/TLS). To maintain community safety and prevent fraud, authorized personnel may review messages only when reports are filed or legally required, following the principle of minimum necessity."
+      ],
+      "subtitle4": "Other Information",
+      "description4": "Other information we may collect includes:",
+      "items4": [
+        "Reports submitted by other users about you (we do not disclose reporter identities)",
+        "Survey responses and research feedback you provide",
+        "Email or contact information you use to invite friends to KosMeet"
+      ]
+    },
+    "section2": {
+      "title": "2. How We Use Your Information",
+      "description": "We use your information for the following purposes and legal bases:",
+      "items": [
+        "Provide Services: Create accounts, facilitate matching, enable chat (Legal basis: Contract performance)",
+        "Personalized Analysis: Compatibility analysis (Legal basis: Explicit consent)",
+        "Improve Services: Analyze trends, behavior patterns, and product optimization (Legal basis: Legitimate interest)",
+        "Customer Support: Handle your inquiries and assistance requests (Legal basis: Contract performance)",
+        "Safety & Security: Detect fraud, misconduct, verify identity (Legal basis: Legitimate interest / Legal obligation)",
+        "Essential Notifications: Account updates and security alerts (Legal basis: Contract performance)",
+        "Marketing: Send promotional information with your consent (Legal basis: Consent)",
+        "Legal Requirements: Comply with laws, regulations, or government requests (Legal basis: Legal obligation)"
+      ]
+    },
+    "section3": {
+      "title": "3. How We Share Your Information",
+      "description": "We do not sell your personal information. We may share in these circumstances:",
+      "items": [
+        "With Other Users: Your profile data and compatibility information",
+        "Report Process: We may inform reporters that action was taken but will not disclose your personal information or processing details",
+        "Service Providers: Firebase (authentication, database, analytics), Apple/Google (payment processing)",
+        "Legal Requirements: To investigate illegal activities, respond to legal processes, protect user safety",
+        "Business Transactions: Such as mergers, acquisitions, or asset transfers"
+      ]
+    },
+    "section4": {
+      "title": "4. Cookies and Tracking Technologies",
+      "description": "We use cookies and similar technologies to improve our services:",
+      "items": [
+        "Essential Cookies: Login status and basic functionality",
+        "Analytics Cookies: Understand usage to improve services",
+        "Functional Cookies: Personalize user experience",
+        "Third-Party Cookies: Such as Firebase for analytics and diagnostics"
+      ],
+      "choices": "You can manage cookies through your browser or device settings. Disabling cookies may affect some functionality.",
+      "doNotTrack": "Due to lack of unified standards, we do not respond to browser 'Do Not Track' signals."
+    },
+    "section5": {
+      "title": "5. Data Storage and Security",
+      "description": "Your data is stored on secure servers provided by Firebase (Google Cloud). It may be located in the US, Singapore, or other regions (determined by Firebase regional settings). We implement the following security measures:",
+      "items": [
+        "Encryption in transit and at rest",
+        "Firebase Auth authentication",
+        "Access control management",
+        "Regular security analysis"
+      ],
+      "disclaimer": "Despite our security measures, no internet transmission can be guaranteed 100% secure."
+    },
+    "section6": {
+      "title": "6. Data Retention",
+      "description": "We retain your data while your account is active.",
+      "inactive": "If your account is inactive for one year, we may close it and begin the deletion process.",
+      "retention": "Data retention periods after account closure:",
+      "items": [
+        "Personal Data: 90 days (for processing reports and risk investigations)",
+        "Transaction Data: 10 years (regulatory requirements)",
+        "Customer Support Records: 6 years",
+        "Consent Records: 5 years",
+        "Traffic Logs: 1 year"
+      ],
+      "banned": "If your account is suspended for violations, we retain necessary data to prevent re-registration and maintain community safety."
+    },
+    "section7": {
+      "title": "7. Your Rights and Choices",
+      "description": "Depending on your location, you have the following rights:",
+      "items": [
+        "Access your personal data",
+        "Correct inaccurate data",
+        "Delete your account and data",
+        "Withdraw consent (e.g., compatibility analysis)",
+        "Restrict or object to certain processing activities",
+        "Disable location services",
+        "Turn off push notifications"
+      ],
+      "portabilityNote": "You have the right to request a copy of your personal data. To exercise this right, please contact us via email. After verifying your identity, we will assist in providing a copy of your data on our platform.",
+      "exercise": "To exercise your rights, contact: hoshimeet{'@'}gmail.com",
+      "appeal": "If your request is denied, you may appeal by marking the subject line as 'Privacy Request Appeal'.",
+      "complaints": "UK/EU users may file complaints with their local data protection authority."
+    },
+    "section8": {
+      "title": "8. Age Restriction",
+      "description": "KosMeet is only available to users 18 years or older. If you discover a suspected underage user, please use the report feature."
+    },
+    "section9": {
+      "title": "9. International Data Transfers",
+      "description": "Your data may be transferred to Taiwan or other countries where Firebase servers are located. By using KosMeet, you consent to such cross-border data transfers. We use appropriate safeguards as required by law."
+    },
+    "section10": {
+      "title": "10. Region-Specific Rights",
+      "california": "California Residents (CCPA/CPRA): You have the right to know, access, delete, and correct your data. KosMeet does not sell your personal data.",
+      "uk": "UK Residents (UK GDPR): You have the rights described in Section 7 and may file complaints with the ICO.",
+      "other": "Residents of Canada, Japan, Korea, Singapore, and Taiwan also have rights protected by their respective data protection laws."
+    },
+    "section11": {
+      "title": "11. Cookie Policy",
+      "description": "For details on how we use cookies, please refer to Section 4."
+    },
+    "section12": {
+      "title": "12. Third-Party Links",
+      "description": "KosMeet may contain links to third-party websites. We are not responsible for their privacy practices. We recommend reviewing each website's privacy policy."
+    },
+    "section13": {
+      "title": "13. Children's Privacy",
+      "description": "We do not knowingly collect information from individuals under 18. If you believe a child has provided us with information, please contact us immediately."
+    },
+    "section14": {
+      "title": "14. Changes to This Policy",
+      "description": "We may update this policy. If significant changes are made, we will notify you through the app or email."
+    },
+    "section15": {
+      "title": "15. Contact Us",
+      "description": "If you have any questions, please contact:",
+      "company": "KosMeet",
+      "location": "Taiwan",
+      "email": "hoshimeet{'@'}gmail.com"
+    }
+  },
   "termsOfService": {
     "title": "Terms of Service",
-    "lastUpdated": "Last Updated: December 11, 2024",
+    "lastUpdated": "Last Updated: November 28, 2024",
     "intro": "Welcome to KosMeet! These Terms of Service ('Terms') constitute a legally binding agreement between you and KosMeet ('we', 'us', 'our'). By using KosMeet, you agree to comply with these Terms. If you do not agree, please do not use our service.",
     "section1": {
       "title": "1. Service Description",
       "description": "KosMeet is a dating and matching app that helps users build meaningful connections through:",
       "items": [
-        "Compatibility analysis based on traditional Ba Zi (八字) and Zi Wei Dou Shu (紫微斗數) principles",
+        "Compatibility analysis based on birth data",
         "MBTI personality type matching",
         "Real-time chat functionality",
         "Profile browsing and match recommendations"
@@ -132,7 +287,7 @@
       "description": "Regarding your account:",
       "items": [
         "You must provide accurate, complete, and current information",
-        "You are responsible for maintaining the confidentiality of your account credentials",
+        "You are responsible for maintaining the confidentiality of your password",
         "You are responsible for all activities under your account",
         "Notify us immediately if you discover unauthorized use",
         "You may not transfer or sell your account to others",
@@ -192,7 +347,7 @@
       "description1": "KosMeet offers free and paid features. Paid services include:",
       "items1": [
         "Advanced matching features",
-        "Unlimited compatibility analyses",
+        "Unlimited swipes",
         "See who likes you",
         "Other premium features"
       ],
@@ -205,19 +360,18 @@
         "You can manage or cancel subscriptions in your device's account settings"
       ],
       "subtitle3": "Refund Policy",
-      "description3": "All purchases are processed through Apple/Google and subject to their refund policies. KosMeet does not process refunds directly.",
+      "description3": "Refunds are handled according to Apple App Store or Google Play Store policies. Generally:",
       "items3": [
-        "To request a refund for iOS purchases: https://support.apple.com/en-us/HT204084",
-        "To request a refund for Android purchases: https://support.google.com/googleplay/answer/2479637",
-        "If a purchase is refunded, access to purchased features/credits will be automatically revoked"
-      ],
-      "refundAbuse": "Accounts with repeated refund patterns may be flagged and restricted from making future purchases."
+        "Digital content purchases are typically non-refundable",
+        "For special circumstances, please contact Apple or Google support directly",
+        "We do not process refund requests directly"
+      ]
     },
     "section7": {
       "title": "7. Compatibility Analysis Disclaimer",
       "description": "Regarding KosMeet's compatibility analysis feature:",
       "items": [
-        "Compatibility analysis based on Ba Zi and Zi Wei Dou Shu is for cultural reference and entertainment purposes only",
+        "Compatibility analysis is for entertainment and reference purposes only",
         "Analysis results do not constitute professional advice (including but not limited to psychological, marriage, or relationship counseling)",
         "We do not guarantee the accuracy of analysis or any specific outcomes",
         "You should not rely solely on analysis results for major life decisions",
@@ -337,8 +491,8 @@
       "title": "17. Contact Us",
       "description": "If you have any questions about these Terms, please contact:",
       "company": "KosMeet",
-      "address": "No. 104, Caoya 1st Rd, Cianjhen District, Kaohsiung City, 806, Taiwan",
-      "email": "hoshimeet@gmail.com"
+      "location": "Taiwan",
+      "email": "hoshimeet{'@'}gmail.com"
     }
   }
 }
